@@ -1,0 +1,1001 @@
+,status,duration,credit_history,purpose,amount,savings,employment_duration,installment_rate,personal_status_sex,other_debtors,present_residence,property,age,other_installment_plans,housing,number_credits,job,people_liable,telephone,foreign_worker,credit_risk
+0,1,18,4,car (used),1049,1,2,4,female : non-single or male : single,none,4,car or other,21,none,1,1,3,0 to 2,1,2,1
+1,1,9,4,others,2799,1,3,2,male : married/widowed,none,2,unknown / no property,36,none,1,2,3,3 or more,1,2,1
+2,2,12,2,retraining,841,2,4,2,female : non-single or male : single,none,4,unknown / no property,23,none,1,1,2,0 to 2,1,2,1
+3,1,12,4,others,2122,1,3,3,male : married/widowed,none,2,unknown / no property,39,none,1,2,2,3 or more,1,1,1
+4,1,12,4,others,2171,1,3,4,male : married/widowed,none,4,car or other,38,bank,2,2,2,0 to 2,1,1,1
+5,1,10,4,others,2241,1,2,1,male : married/widowed,none,3,unknown / no property,48,none,1,2,2,3 or more,1,1,1
+6,1,8,4,others,3398,1,4,1,male : married/widowed,none,4,unknown / no property,39,none,2,2,2,0 to 2,1,1,1
+7,1,6,4,others,1361,1,2,2,male : married/widowed,none,4,unknown / no property,40,none,2,1,2,3 or more,1,1,1
+8,4,18,4,furniture/equipment,1098,1,1,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,65,none,2,2,1,0 to 2,1,2,1
+9,2,24,2,furniture/equipment,3758,3,1,1,female : non-single or male : single,none,4,real estate,23,none,1,1,1,0 to 2,1,2,1
+10,1,11,4,others,3905,1,3,2,male : married/widowed,none,2,unknown / no property,36,none,1,2,3,3 or more,1,2,1
+11,1,30,4,car (new),6187,2,4,1,female : single,none,4,building soc. savings agr./life insurance,24,none,1,2,3,0 to 2,1,2,1
+12,1,6,4,furniture/equipment,1957,1,4,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,31,none,2,1,3,0 to 2,1,2,1
+13,2,48,3,business,7582,2,1,2,male : married/widowed,none,4,real estate,31,none,2,1,4,0 to 2,2,2,1
+14,1,18,2,furniture/equipment,1936,5,4,2,female : single,none,4,building soc. savings agr./life insurance,23,none,1,2,2,0 to 2,1,2,1
+15,1,6,2,furniture/equipment,2647,3,3,2,male : married/widowed,none,3,unknown / no property,44,none,1,1,3,3 or more,1,2,1
+16,1,11,4,others,3939,1,3,1,male : married/widowed,none,2,unknown / no property,40,none,2,2,2,3 or more,1,2,1
+17,2,18,2,furniture/equipment,3213,3,2,1,female : single,none,3,unknown / no property,25,none,1,1,3,0 to 2,1,2,1
+18,2,36,4,furniture/equipment,2337,1,5,4,male : married/widowed,none,4,unknown / no property,36,none,2,1,3,0 to 2,1,2,1
+19,4,11,4,others,7228,1,3,1,male : married/widowed,none,4,car or other,39,none,2,2,2,0 to 2,1,2,1
+20,1,6,4,others,3676,1,3,1,male : married/widowed,none,3,unknown / no property,37,none,1,3,3,3 or more,1,2,1
+21,2,12,4,others,3124,1,2,1,male : married/widowed,none,3,unknown / no property,49,bank,2,2,2,3 or more,1,2,1
+22,2,36,2,domestic appliances,2384,1,2,4,male : married/widowed,none,1,real estate,33,none,1,1,2,0 to 2,1,2,0
+23,2,12,4,radio/television,1424,1,4,4,male : married/widowed,none,3,car or other,26,none,2,1,3,0 to 2,1,2,1
+24,1,6,4,others,4716,5,2,1,male : married/widowed,none,3,unknown / no property,44,none,2,2,2,3 or more,1,2,1
+25,2,11,3,furniture/equipment,4771,1,4,2,male : married/widowed,none,4,car or other,51,none,2,1,3,0 to 2,1,2,1
+26,1,12,2,car (used),652,1,5,4,female : non-single or male : single,none,4,car or other,24,none,1,1,3,0 to 2,1,2,1
+27,2,9,4,furniture/equipment,1154,1,5,2,male : married/widowed,none,4,unknown / no property,37,none,2,3,2,0 to 2,1,2,1
+28,4,15,2,others,3556,5,3,3,male : married/widowed,none,2,real estate,29,none,2,1,3,0 to 2,1,2,1
+29,3,42,4,car (new),4796,1,5,4,male : married/widowed,none,4,real estate,56,none,3,1,3,0 to 2,1,2,1
+30,3,30,4,furniture/equipment,3017,1,5,4,male : married/widowed,none,4,car or other,47,none,2,1,3,0 to 2,1,2,1
+31,4,36,4,others,3535,1,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,37,none,2,2,3,0 to 2,2,2,1
+32,4,36,4,others,6614,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,34,none,2,2,4,0 to 2,2,2,1
+33,4,24,2,furniture/equipment,1376,3,4,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,1,2,1
+34,1,15,2,others,1721,1,2,2,male : married/widowed,none,3,unknown / no property,36,none,2,1,3,0 to 2,1,2,1
+35,1,6,4,others,860,1,5,1,female : non-single or male : single,none,4,real estate,39,none,2,2,3,0 to 2,2,2,1
+36,4,12,4,others,1495,1,5,4,male : married/widowed,none,1,unknown / no property,38,none,2,2,2,3 or more,1,2,1
+37,4,12,4,furniture/equipment,1934,1,5,2,male : married/widowed,none,2,real estate,26,none,2,2,3,0 to 2,1,2,1
+38,4,18,2,car (new),3378,5,3,2,male : married/widowed,none,1,car or other,31,none,2,1,3,0 to 2,2,2,1
+39,4,24,4,car (new),3868,1,5,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,41,none,1,2,4,0 to 2,2,2,1
+40,4,12,4,domestic appliances,996,5,4,4,female : non-single or male : single,none,4,unknown / no property,23,none,2,2,3,0 to 2,1,2,1
+41,1,24,2,business,1755,1,5,4,female : non-single or male : single,guarantor,4,unknown / no property,58,none,2,1,2,0 to 2,2,2,1
+42,4,18,4,others,1028,1,3,4,female : non-single or male : single,none,3,unknown / no property,36,none,2,2,3,0 to 2,1,2,1
+43,2,24,4,retraining,2825,5,4,4,male : married/widowed,none,3,real estate,34,none,2,2,3,3 or more,2,2,1
+44,2,18,2,repairs,1239,5,3,4,male : married/widowed,none,4,real estate,61,none,3,1,3,0 to 2,1,2,1
+45,1,18,2,others,1216,1,2,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,23,none,1,1,3,0 to 2,2,2,0
+46,4,24,2,retraining,1258,1,4,4,male : married/widowed,none,1,unknown / no property,25,none,2,1,3,0 to 2,2,2,1
+47,4,18,4,repairs,1864,2,3,4,female : non-single or male : single,none,2,unknown / no property,30,none,2,2,3,0 to 2,1,2,0
+48,4,24,2,others,1474,2,2,4,female : single,none,3,unknown / no property,33,none,2,1,3,0 to 2,2,2,1
+49,1,24,4,retraining,1382,2,4,4,male : married/widowed,none,1,unknown / no property,26,none,2,2,3,0 to 2,2,2,1
+50,4,12,2,others,640,1,3,4,male : divorced/separated,none,2,unknown / no property,49,none,2,1,2,0 to 2,1,2,1
+51,3,36,2,furniture/equipment,3919,1,3,2,male : married/widowed,none,2,unknown / no property,23,none,2,1,3,0 to 2,2,2,1
+52,4,9,4,others,1224,1,3,3,male : married/widowed,none,1,unknown / no property,30,none,2,2,3,0 to 2,1,2,1
+53,4,12,4,furniture/equipment,2331,5,5,1,male : married/widowed,co-applicant,4,unknown / no property,49,none,2,1,3,0 to 2,2,2,1
+54,4,24,2,car (new),6313,5,5,3,male : married/widowed,none,4,building soc. savings agr./life insurance,41,none,2,1,4,3 or more,2,2,1
+55,1,12,4,furniture/equipment,385,1,4,4,female : non-single or male : single,none,3,unknown / no property,58,none,2,4,2,0 to 2,2,2,1
+56,4,12,4,furniture/equipment,1655,1,5,2,male : married/widowed,none,4,unknown / no property,63,none,2,2,2,0 to 2,2,2,1
+57,1,15,2,furniture/equipment,1053,1,2,4,female : single,none,2,unknown / no property,27,none,2,1,3,0 to 2,1,1,1
+58,4,21,2,furniture/equipment,3160,5,5,4,male : married/widowed,none,3,car or other,41,none,2,1,3,0 to 2,2,2,1
+59,4,36,2,others,3079,5,3,4,male : married/widowed,none,4,unknown / no property,36,none,2,1,3,0 to 2,1,2,1
+60,4,12,4,others,1163,3,3,4,male : married/widowed,none,4,unknown / no property,44,none,2,1,3,0 to 2,2,2,1
+61,4,24,2,car (new),2679,1,2,4,female : non-single or male : single,none,1,real estate,29,none,2,1,4,0 to 2,2,2,1
+62,4,48,4,furniture/equipment,3578,5,5,4,male : married/widowed,none,1,unknown / no property,47,none,2,1,3,0 to 2,2,2,1
+63,4,36,3,others,10875,1,5,2,male : married/widowed,none,2,building soc. savings agr./life insurance,45,none,2,2,3,3 or more,2,2,1
+64,1,12,3,others,1344,1,3,4,male : married/widowed,none,2,unknown / no property,43,none,2,2,2,3 or more,1,2,1
+65,4,6,4,furniture/equipment,1237,2,3,1,female : non-single or male : single,none,1,car or other,27,none,2,2,3,0 to 2,1,2,1
+66,4,12,2,furniture/equipment,3077,1,3,2,male : married/widowed,none,4,building soc. savings agr./life insurance,52,none,2,1,3,0 to 2,2,2,1
+67,4,24,2,furniture/equipment,2284,1,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,2,2,1
+68,2,12,2,furniture/equipment,1567,1,3,1,female : non-single or male : single,none,1,building soc. savings agr./life insurance,22,none,2,1,3,0 to 2,2,2,1
+69,4,24,3,others,2032,1,5,4,male : married/widowed,none,4,real estate,60,none,3,2,3,0 to 2,2,2,1
+70,2,21,4,car (used),2745,4,4,3,male : married/widowed,none,2,building soc. savings agr./life insurance,32,none,2,2,3,0 to 2,2,2,1
+71,4,30,2,furniture/equipment,1867,5,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,58,none,2,1,3,0 to 2,2,2,1
+72,4,36,2,furniture/equipment,2299,3,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,39,none,2,1,3,0 to 2,1,2,1
+73,4,24,2,car (used),929,5,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,31,stores,2,1,3,0 to 2,2,2,1
+74,3,12,2,furniture/equipment,3399,5,5,2,male : married/widowed,none,3,building soc. savings agr./life insurance,37,none,2,1,4,0 to 2,1,2,1
+75,2,9,2,car (used),2030,5,4,2,male : married/widowed,none,1,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,2,2,1
+76,4,21,4,car (new),3275,1,5,1,male : married/widowed,none,4,building soc. savings agr./life insurance,36,none,2,1,4,0 to 2,2,2,1
+77,4,24,4,others,1940,4,5,4,male : married/widowed,none,4,unknown / no property,60,none,2,1,3,0 to 2,2,2,1
+78,1,21,4,others,1602,1,5,4,female : single,none,3,building soc. savings agr./life insurance,30,none,2,2,3,0 to 2,2,2,1
+79,4,15,2,furniture/equipment,1979,5,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,35,none,2,1,3,0 to 2,1,2,1
+80,4,24,4,others,2022,1,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,37,none,2,1,3,0 to 2,2,2,1
+81,4,36,4,furniture/equipment,3342,5,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,51,none,2,1,3,0 to 2,2,2,1
+82,2,18,2,others,5866,2,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,2,3,0 to 2,2,2,1
+83,3,15,4,car (new),2360,3,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,36,none,2,1,3,0 to 2,2,2,1
+84,4,15,4,car (used),1520,5,5,4,male : married/widowed,none,4,car or other,63,none,2,1,3,0 to 2,1,2,1
+85,1,12,2,others,3651,4,3,1,male : married/widowed,none,3,car or other,31,none,2,1,3,3 or more,1,2,1
+86,4,24,4,car (new),2346,1,4,4,male : married/widowed,none,3,building soc. savings agr./life insurance,35,none,2,2,3,0 to 2,2,2,1
+87,4,36,3,furniture/equipment,4454,1,3,4,female : non-single or male : single,none,4,unknown / no property,34,none,2,2,3,0 to 2,1,2,1
+88,1,6,4,others,666,4,4,3,female : non-single or male : single,none,4,unknown / no property,39,none,2,2,2,0 to 2,2,2,1
+89,2,24,3,others,1965,5,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,42,none,1,2,3,0 to 2,2,2,1
+90,2,12,4,others,1995,2,2,4,male : married/widowed,none,1,building soc. savings agr./life insurance,27,none,2,1,3,0 to 2,1,2,1
+91,2,30,2,furniture/equipment,2991,5,5,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,25,none,2,1,3,0 to 2,1,2,1
+92,2,30,0,retraining,4221,1,3,2,female : non-single or male : single,none,1,building soc. savings agr./life insurance,28,none,2,2,3,0 to 2,1,2,1
+93,1,9,2,furniture/equipment,1364,1,4,3,male : married/widowed,none,4,unknown / no property,59,none,2,1,3,0 to 2,1,2,1
+94,2,18,4,car (used),6361,1,5,2,male : married/widowed,none,1,real estate,41,none,2,1,3,0 to 2,2,2,1
+95,4,27,4,car (used),4526,4,2,4,male : married/widowed,none,2,unknown / no property,32,stores,2,2,2,3 or more,2,2,1
+96,2,12,4,furniture/equipment,3573,1,3,1,female : non-single or male : single,none,1,unknown / no property,23,none,2,1,2,0 to 2,1,2,1
+97,2,36,3,retraining,4455,1,3,2,male : divorced/separated,none,2,unknown / no property,30,stores,2,2,4,0 to 2,2,2,0
+98,1,9,2,car (used),2136,1,3,3,male : married/widowed,none,2,unknown / no property,25,none,2,1,3,0 to 2,1,2,1
+99,2,42,4,retraining,5954,1,4,2,female : non-single or male : single,none,1,unknown / no property,41,bank,2,2,2,0 to 2,1,2,1
+100,4,24,4,car (used),3777,4,3,4,male : married/widowed,none,4,unknown / no property,40,none,2,1,3,0 to 2,2,2,1
+101,1,15,2,retraining,806,1,3,4,female : non-single or male : single,none,4,car or other,22,none,2,1,2,0 to 2,1,2,1
+102,2,24,3,retraining,4712,5,3,4,male : married/widowed,none,2,car or other,34,bank,2,2,4,0 to 2,2,2,1
+103,2,36,3,others,7432,1,3,2,female : non-single or male : single,none,2,car or other,54,none,1,1,3,0 to 2,1,2,1
+104,4,24,4,furniture/equipment,1851,1,4,4,female : single,guarantor,2,building soc. savings agr./life insurance,33,none,2,2,3,0 to 2,2,2,1
+105,4,24,2,others,1393,1,3,2,male : married/widowed,guarantor,2,unknown / no property,31,none,2,1,3,0 to 2,2,2,1
+106,4,12,4,retraining,1412,1,3,4,female : non-single or male : single,guarantor,2,unknown / no property,29,none,2,2,4,0 to 2,2,2,1
+107,4,18,2,furniture/equipment,1473,1,2,3,female : single,none,4,unknown / no property,39,none,2,1,3,0 to 2,2,2,1
+108,4,24,2,furniture/equipment,1533,1,2,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,38,stores,2,1,3,0 to 2,2,2,1
+109,4,12,4,repairs,2012,5,4,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,61,none,2,1,3,0 to 2,1,2,1
+110,1,15,2,others,3959,1,3,3,female : non-single or male : single,none,2,car or other,29,none,2,1,3,0 to 2,2,2,0
+111,1,6,2,car (used),428,1,5,2,female : non-single or male : single,none,1,car or other,49,bank,2,1,3,0 to 2,2,2,1
+112,2,12,4,others,2366,3,4,3,male : divorced/separated,none,3,building soc. savings agr./life insurance,36,none,2,1,4,0 to 2,2,2,1
+113,4,12,2,car (used),763,1,3,4,female : non-single or male : single,none,1,unknown / no property,26,none,2,1,3,0 to 2,2,2,1
+114,2,21,2,car (used),3976,5,4,2,male : married/widowed,none,3,building soc. savings agr./life insurance,35,none,2,1,3,0 to 2,2,2,1
+115,2,18,2,others,6260,1,4,3,male : married/widowed,none,3,unknown / no property,28,none,1,1,2,0 to 2,1,2,1
+116,2,9,4,car (used),1919,1,4,4,male : married/widowed,none,3,building soc. savings agr./life insurance,35,none,1,1,3,0 to 2,2,2,1
+117,4,24,2,car (new),2603,4,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,28,none,1,1,3,0 to 2,2,2,1
+118,4,9,4,repairs,936,3,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,52,none,2,2,3,0 to 2,2,2,1
+119,4,24,2,car (used),3062,3,5,4,male : married/widowed,none,3,real estate,32,none,1,1,3,0 to 2,2,2,1
+120,2,36,2,furniture/equipment,4795,1,2,4,female : non-single or male : single,none,1,real estate,30,none,2,1,4,0 to 2,2,2,1
+121,4,36,4,car (new),5842,1,5,2,male : married/widowed,none,2,car or other,35,none,2,2,3,3 or more,2,2,1
+122,2,6,2,furniture/equipment,2063,1,2,4,female : single,none,3,building soc. savings agr./life insurance,30,none,1,1,4,0 to 2,2,2,1
+123,4,15,4,furniture/equipment,1459,1,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,43,none,2,1,2,0 to 2,1,2,1
+124,4,15,2,furniture/equipment,1213,3,5,4,male : married/widowed,none,3,car or other,47,stores,2,1,3,0 to 2,2,2,1
+125,4,24,4,furniture/equipment,5103,1,2,3,female : single,none,3,real estate,47,none,3,3,3,0 to 2,2,2,1
+126,4,15,2,radio/television,874,5,2,4,female : non-single or male : single,none,1,unknown / no property,24,none,2,1,3,0 to 2,1,2,1
+127,4,6,2,car (used),2978,3,3,1,male : married/widowed,none,2,building soc. savings agr./life insurance,32,none,2,1,3,0 to 2,2,2,1
+128,4,18,2,others,1820,1,3,2,female : single,none,2,car or other,30,none,2,1,4,0 to 2,2,2,1
+129,4,24,4,furniture/equipment,2872,2,5,3,male : married/widowed,none,4,unknown / no property,36,none,2,1,3,3 or more,2,2,1
+130,3,24,2,car (used),1925,1,3,2,male : married/widowed,none,2,unknown / no property,26,none,2,1,3,0 to 2,1,2,1
+131,4,18,2,car (used),2515,1,3,3,male : married/widowed,none,4,unknown / no property,43,none,2,1,3,0 to 2,2,2,1
+132,3,6,2,car (used),2116,1,3,2,male : married/widowed,none,2,unknown / no property,41,none,2,1,3,0 to 2,2,2,1
+133,4,18,2,furniture/equipment,1453,1,2,3,female : non-single or male : single,none,1,unknown / no property,26,none,2,1,3,0 to 2,1,2,1
+134,4,10,2,others,1364,1,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,64,none,2,1,3,0 to 2,2,2,1
+135,4,6,2,car (used),1543,4,3,4,male : divorced/separated,none,2,unknown / no property,33,none,2,1,3,0 to 2,1,2,1
+136,2,12,2,others,1318,4,5,4,male : married/widowed,none,4,unknown / no property,54,none,2,1,3,0 to 2,2,2,1
+137,1,24,1,others,2325,2,4,2,male : married/widowed,none,3,building soc. savings agr./life insurance,32,bank,2,1,3,0 to 2,1,2,1
+138,2,6,4,vacation,932,5,4,1,female : non-single or male : single,none,3,car or other,39,none,2,2,2,0 to 2,1,2,1
+139,3,24,4,furniture/equipment,3148,5,3,3,male : married/widowed,none,2,building soc. savings agr./life insurance,31,none,2,2,3,0 to 2,2,2,1
+140,4,36,2,furniture/equipment,3835,5,5,2,female : non-single or male : single,none,4,unknown / no property,45,none,2,1,2,0 to 2,2,2,1
+141,4,9,2,repairs,3832,5,5,1,male : married/widowed,none,4,unknown / no property,64,none,2,1,2,0 to 2,1,2,1
+142,2,24,2,furniture/equipment,5084,5,5,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,42,none,2,1,3,0 to 2,2,2,1
+143,4,9,4,car (used),2406,1,1,2,male : married/widowed,none,3,building soc. savings agr./life insurance,31,none,2,1,4,0 to 2,1,2,1
+144,4,36,2,furniture/equipment,2394,5,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,25,none,2,1,3,0 to 2,1,2,1
+145,4,21,2,car (new),2476,5,5,4,male : married/widowed,none,4,unknown / no property,46,none,2,1,4,0 to 2,2,2,1
+146,1,24,2,car (new),2964,5,5,4,male : married/widowed,none,4,real estate,49,bank,3,1,3,3 or more,2,2,1
+147,1,12,2,car (used),1262,5,5,2,male : divorced/separated,none,4,car or other,49,none,2,1,2,0 to 2,2,2,1
+148,4,12,2,retraining,1542,1,4,2,male : married/widowed,none,4,building soc. savings agr./life insurance,36,none,2,1,3,0 to 2,2,2,1
+149,2,24,4,furniture/equipment,1743,1,5,4,male : married/widowed,none,2,car or other,48,none,2,2,2,0 to 2,1,2,1
+150,3,12,1,furniture/equipment,409,4,3,3,female : non-single or male : single,none,3,unknown / no property,42,none,1,2,3,0 to 2,1,2,1
+151,4,12,2,furniture/equipment,2171,1,2,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,29,bank,2,1,3,0 to 2,1,2,1
+152,4,48,4,car (new),8858,5,4,2,male : married/widowed,none,1,real estate,35,none,3,2,3,0 to 2,2,2,1
+153,2,24,2,others,3512,2,4,2,male : married/widowed,none,3,building soc. savings agr./life insurance,38,bank,2,2,3,0 to 2,2,2,1
+154,2,12,2,furniture/equipment,1158,3,3,3,male : divorced/separated,none,1,building soc. savings agr./life insurance,26,none,2,1,3,0 to 2,2,2,1
+155,4,24,4,furniture/equipment,2684,1,3,4,male : married/widowed,none,2,unknown / no property,35,none,2,2,2,0 to 2,1,2,1
+156,1,12,2,furniture/equipment,1498,1,3,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,23,bank,2,1,3,0 to 2,1,2,1
+157,4,30,4,furniture/equipment,5954,1,4,3,male : married/widowed,co-applicant,2,building soc. savings agr./life insurance,38,none,2,1,3,0 to 2,1,2,1
+158,2,48,1,retraining,6416,1,5,4,female : non-single or male : single,none,3,real estate,59,none,1,1,3,0 to 2,1,2,0
+159,2,12,4,car (used),3617,1,5,1,male : married/widowed,none,4,building soc. savings agr./life insurance,28,none,1,3,3,0 to 2,2,2,1
+160,4,12,4,furniture/equipment,1291,1,3,4,female : non-single or male : single,none,2,car or other,35,none,2,2,3,0 to 2,1,2,1
+161,3,24,4,retraining,1275,4,3,2,male : divorced/separated,none,4,unknown / no property,36,none,2,2,3,0 to 2,2,2,1
+162,4,24,2,car (used),3972,1,4,2,female : non-single or male : single,none,4,car or other,25,none,1,1,3,0 to 2,2,2,1
+163,4,15,4,car (used),3343,1,3,4,male : married/widowed,none,2,real estate,28,none,3,1,3,0 to 2,2,2,1
+164,3,15,2,repairs,392,1,2,4,female : non-single or male : single,none,4,car or other,23,none,1,1,3,0 to 2,2,2,1
+165,4,9,4,others,2134,1,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,48,none,2,3,3,0 to 2,2,2,1
+166,4,30,4,furniture/equipment,5771,1,4,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,25,none,2,2,3,0 to 2,1,2,1
+167,4,24,4,retraining,4526,1,3,3,male : married/widowed,none,2,unknown / no property,74,none,2,1,4,0 to 2,2,2,1
+168,4,15,4,car (used),2788,1,4,2,female : non-single or male : single,co-applicant,3,building soc. savings agr./life insurance,24,bank,2,2,3,0 to 2,1,2,1
+169,4,6,4,furniture/equipment,1382,1,3,1,female : non-single or male : single,none,1,building soc. savings agr./life insurance,28,none,2,2,3,0 to 2,2,2,1
+170,3,36,2,furniture/equipment,5848,1,3,4,male : married/widowed,none,1,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,1
+171,1,12,2,others,1228,1,3,4,female : non-single or male : single,none,2,unknown / no property,24,none,2,1,2,0 to 2,1,2,0
+172,3,12,2,furniture/equipment,1297,1,3,3,female : single,none,4,unknown / no property,23,none,1,1,3,0 to 2,1,2,1
+173,4,24,2,furniture/equipment,1552,1,4,3,male : married/widowed,none,1,building soc. savings agr./life insurance,32,bank,2,1,3,3 or more,1,2,1
+174,4,12,2,furniture/equipment,1963,1,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,31,none,1,2,4,3 or more,2,2,1
+175,4,24,2,furniture/equipment,3235,3,5,3,male : divorced/separated,none,2,building soc. savings agr./life insurance,36,none,2,1,4,0 to 2,2,2,1
+176,4,24,4,retraining,4139,2,3,3,male : married/widowed,none,3,car or other,27,none,2,2,2,0 to 2,2,2,1
+177,2,12,4,car (new),1804,2,2,3,male : married/widowed,none,4,car or other,44,none,2,1,3,0 to 2,1,2,1
+178,4,18,2,retraining,1950,1,4,4,male : married/widowed,none,1,building soc. savings agr./life insurance,34,stores,2,2,3,0 to 2,2,2,1
+179,4,48,3,furniture/equipment,12749,3,4,4,male : married/widowed,none,1,building soc. savings agr./life insurance,37,none,2,1,4,0 to 2,2,2,1
+180,4,9,2,radio/television,1236,1,2,1,female : non-single or male : single,none,4,unknown / no property,23,none,1,1,3,0 to 2,2,2,1
+181,4,18,4,others,1055,1,2,4,female : non-single or male : single,none,1,car or other,30,none,2,2,3,0 to 2,1,2,1
+182,1,30,0,retraining,8072,5,2,2,male : married/widowed,none,3,building soc. savings agr./life insurance,25,bank,2,3,3,0 to 2,1,2,1
+183,4,30,4,furniture/equipment,2831,1,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,2,2,1
+184,4,9,2,retraining,1449,1,4,3,female : non-single or male : single,none,2,building soc. savings agr./life insurance,27,none,2,2,3,0 to 2,1,2,1
+185,4,36,2,retraining,5742,2,4,2,male : married/widowed,none,2,building soc. savings agr./life insurance,31,none,2,2,3,0 to 2,2,2,1
+186,4,12,2,others,2390,5,5,4,male : married/widowed,none,3,building soc. savings agr./life insurance,50,none,2,1,3,0 to 2,2,2,1
+187,4,24,2,furniture/equipment,3430,3,5,3,male : married/widowed,none,2,building soc. savings agr./life insurance,31,none,2,1,3,3 or more,2,2,1
+188,2,36,2,repairs,2273,1,4,3,male : married/widowed,none,1,building soc. savings agr./life insurance,32,none,2,2,3,3 or more,1,2,1
+189,3,21,2,others,2923,2,3,1,female : non-single or male : single,none,1,building soc. savings agr./life insurance,28,bank,2,1,4,0 to 2,2,2,1
+190,4,24,2,furniture/equipment,1901,2,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,29,none,1,1,4,0 to 2,2,2,1
+191,2,36,2,repairs,3711,5,3,2,female : single,none,2,building soc. savings agr./life insurance,27,none,2,1,3,0 to 2,1,2,1
+192,2,48,2,others,8487,5,4,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,1
+193,4,24,2,others,2255,5,2,4,male : married/widowed,none,1,car or other,54,none,2,1,3,0 to 2,1,2,1
+194,4,12,2,furniture/equipment,1262,1,3,3,male : married/widowed,none,2,building soc. savings agr./life insurance,25,none,2,1,3,0 to 2,1,2,1
+195,4,33,4,car (new),7253,1,4,3,male : married/widowed,none,2,building soc. savings agr./life insurance,35,none,2,2,4,0 to 2,2,2,1
+196,4,6,4,others,6761,1,4,1,male : married/widowed,none,3,real estate,45,none,2,2,4,3 or more,2,2,1
+197,4,18,4,car (used),1817,1,3,4,female : non-single or male : single,none,2,real estate,28,none,2,2,3,0 to 2,1,2,1
+198,4,12,2,furniture/equipment,2141,2,4,3,male : married/widowed,none,1,real estate,35,none,2,1,3,0 to 2,1,2,1
+199,4,48,1,retraining,3609,1,3,1,female : non-single or male : single,none,1,unknown / no property,27,stores,2,1,3,0 to 2,1,2,1
+200,4,30,2,furniture/equipment,2333,3,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,bank,2,1,4,0 to 2,1,2,1
+201,4,28,1,car (new),7824,5,2,3,male : married/widowed,guarantor,4,unknown / no property,40,bank,1,2,3,3 or more,2,2,1
+202,3,18,1,furniture/equipment,1445,5,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,49,bank,2,1,2,0 to 2,1,2,1
+203,1,24,2,car (used),7721,5,2,1,female : non-single or male : single,none,2,car or other,30,none,2,1,3,0 to 2,2,1,1
+204,1,21,2,others,3763,5,4,2,male : married/widowed,co-applicant,2,unknown / no property,24,none,2,1,2,0 to 2,1,1,1
+205,2,18,2,retraining,4439,1,5,1,male : married/widowed,co-applicant,1,unknown / no property,33,bank,2,1,4,0 to 2,2,2,1
+206,1,12,2,furniture/equipment,1107,1,3,2,male : married/widowed,none,2,unknown / no property,20,none,1,1,4,3 or more,2,2,1
+207,2,15,2,furniture/equipment,1444,5,2,4,male : married/widowed,none,1,car or other,23,none,2,1,3,0 to 2,1,2,1
+208,2,48,1,others,12169,5,1,4,male : married/widowed,co-applicant,4,real estate,36,none,3,1,4,0 to 2,2,2,1
+209,4,9,2,furniture/equipment,2753,2,5,3,male : married/widowed,co-applicant,4,building soc. savings agr./life insurance,35,none,2,1,3,0 to 2,2,2,1
+210,3,4,2,others,1494,5,2,1,male : married/widowed,none,2,unknown / no property,29,none,2,1,2,3 or more,1,1,1
+211,1,24,1,car (used),2828,3,3,4,male : married/widowed,none,4,unknown / no property,22,stores,2,1,3,0 to 2,2,2,1
+212,1,24,1,car (used),2483,3,3,4,male : married/widowed,none,4,unknown / no property,22,stores,2,1,3,0 to 2,2,2,1
+213,3,6,4,others,1299,1,3,1,male : married/widowed,none,1,unknown / no property,74,none,2,3,1,3 or more,1,1,1
+214,2,9,2,others,1549,5,2,4,male : married/widowed,none,2,unknown / no property,35,none,2,1,1,0 to 2,1,2,1
+215,3,10,2,others,3949,1,2,1,male : married/widowed,guarantor,1,car or other,37,none,2,1,2,3 or more,1,2,1
+216,4,10,2,car (new),2901,5,2,1,female : non-single or male : single,none,4,unknown / no property,31,none,1,1,3,0 to 2,1,2,1
+217,3,6,2,others,709,4,2,2,female : single,none,2,unknown / no property,27,none,2,1,1,0 to 2,1,1,1
+218,1,47,2,others,10722,1,2,1,female : non-single or male : single,none,1,unknown / no property,35,none,2,1,2,0 to 2,2,2,1
+219,4,10,2,others,1287,5,5,4,male : married/widowed,co-applicant,2,car or other,45,none,2,1,2,0 to 2,1,1,1
+220,1,18,1,furniture/equipment,1940,1,2,3,male : married/widowed,co-applicant,4,real estate,36,bank,3,1,4,0 to 2,2,2,1
+221,3,30,4,furniture/equipment,3656,5,5,4,male : married/widowed,none,4,car or other,49,stores,2,2,2,0 to 2,1,2,1
+222,4,24,3,car (new),4679,1,4,3,male : married/widowed,none,3,building soc. savings agr./life insurance,35,none,2,2,2,0 to 2,2,2,1
+223,4,27,3,car (new),8613,4,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,27,none,2,2,3,0 to 2,1,2,1
+224,1,18,2,car (used),2659,4,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,1,2,1
+225,4,24,4,furniture/equipment,1516,4,3,4,female : non-single or male : single,none,1,unknown / no property,43,none,2,2,2,0 to 2,1,2,1
+226,1,18,2,others,4380,2,3,3,male : married/widowed,none,4,building soc. savings agr./life insurance,35,none,2,1,2,3 or more,2,2,1
+227,4,14,3,others,802,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,27,none,2,2,2,0 to 2,1,2,1
+228,4,21,2,retraining,1572,4,5,4,female : non-single or male : single,none,4,unknown / no property,36,bank,2,1,2,0 to 2,1,2,1
+229,2,48,1,retraining,3566,2,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,1,3,0 to 2,1,2,1
+230,4,24,2,furniture/equipment,1278,1,5,4,male : married/widowed,none,1,unknown / no property,36,none,2,1,4,0 to 2,2,2,1
+231,4,6,0,furniture/equipment,426,1,5,4,female : single,none,4,building soc. savings agr./life insurance,39,none,2,1,2,0 to 2,1,2,1
+232,4,39,2,car (new),8588,2,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,45,none,2,1,4,0 to 2,2,2,1
+233,1,30,2,car (new),3857,1,3,4,male : divorced/separated,none,4,car or other,40,none,2,1,4,0 to 2,2,2,1
+234,2,12,2,others,685,1,4,2,female : single,none,3,building soc. savings agr./life insurance,25,bank,2,1,2,0 to 2,1,2,0
+235,1,24,2,furniture/equipment,1603,1,5,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,55,none,2,1,3,0 to 2,1,2,1
+236,4,21,2,car (used),2241,1,5,4,male : married/widowed,none,2,unknown / no property,50,none,2,2,3,0 to 2,1,2,1
+237,1,24,2,furniture/equipment,2384,1,5,4,male : married/widowed,none,4,unknown / no property,64,bank,1,1,2,0 to 2,1,2,1
+238,4,4,2,car (used),601,1,2,1,female : non-single or male : single,none,3,unknown / no property,23,none,1,1,2,3 or more,1,2,1
+239,4,39,2,car (new),2569,3,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,1
+240,4,15,4,furniture/equipment,1316,3,3,2,female : single,none,2,car or other,47,none,2,2,2,0 to 2,1,2,1
+241,4,60,2,others,10366,1,5,2,male : married/widowed,none,4,car or other,42,none,2,1,4,0 to 2,2,2,1
+242,4,18,2,retraining,1568,2,3,3,female : non-single or male : single,none,4,car or other,24,none,1,1,2,0 to 2,1,2,1
+243,4,18,4,furniture/equipment,629,3,5,4,male : married/widowed,none,3,car or other,32,bank,2,2,4,0 to 2,2,2,1
+244,4,6,1,furniture/equipment,1750,3,5,2,male : married/widowed,none,4,car or other,45,bank,2,1,2,3 or more,1,2,1
+245,4,24,2,car (new),3488,2,4,3,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,2,1,3,0 to 2,1,2,1
+246,4,18,4,furniture/equipment,1800,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,24,none,2,2,3,0 to 2,1,2,1
+247,4,24,3,car (used),4151,2,3,2,male : married/widowed,none,3,car or other,35,none,2,2,3,0 to 2,1,2,1
+248,2,15,2,domestic appliances,2631,2,3,3,female : non-single or male : single,none,2,unknown / no property,25,none,2,1,2,0 to 2,1,2,1
+249,4,21,2,car (new),5248,5,3,1,male : married/widowed,none,3,building soc. savings agr./life insurance,26,none,2,1,3,0 to 2,1,2,1
+250,2,18,3,others,2899,5,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,43,none,2,1,3,3 or more,1,2,1
+251,2,18,3,domestic appliances,6204,1,3,2,male : married/widowed,none,4,unknown / no property,44,none,2,1,2,3 or more,2,2,1
+252,4,12,2,furniture/equipment,804,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,38,none,2,1,3,0 to 2,1,2,1
+253,4,36,2,furniture/equipment,3595,1,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,1,2,1
+254,4,36,4,car (new),5711,4,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,38,none,2,2,4,0 to 2,2,2,1
+255,3,15,2,retraining,2687,1,4,2,male : married/widowed,none,4,car or other,26,none,1,1,3,0 to 2,2,2,1
+256,1,15,3,car (used),3643,1,5,1,female : non-single or male : single,none,4,car or other,27,none,2,2,2,0 to 2,1,2,1
+257,4,10,4,car (used),2146,1,2,1,female : non-single or male : single,none,3,unknown / no property,23,none,1,2,3,0 to 2,1,2,1
+258,1,10,2,furniture/equipment,2315,1,5,3,male : married/widowed,none,4,unknown / no property,52,none,2,1,2,0 to 2,1,2,1
+259,4,5,2,retraining,3448,1,4,1,male : married/widowed,none,4,unknown / no property,74,none,2,1,2,0 to 2,1,2,1
+260,4,15,2,car (used),2708,1,2,2,male : married/widowed,none,3,car or other,27,bank,2,2,2,0 to 2,1,2,1
+261,4,11,4,others,1393,1,2,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,35,none,2,2,4,0 to 2,1,2,1
+262,3,10,2,car (used),1275,1,2,4,female : non-single or male : single,none,2,car or other,23,none,2,1,3,0 to 2,1,2,1
+263,4,9,2,car (used),1313,1,5,1,male : married/widowed,none,4,building soc. savings agr./life insurance,20,none,2,1,3,0 to 2,1,2,1
+264,4,12,2,furniture/equipment,1493,1,2,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,34,none,2,1,3,3 or more,1,2,1
+265,4,22,2,furniture/equipment,2675,3,5,3,male : married/widowed,none,4,building soc. savings agr./life insurance,40,none,2,1,3,0 to 2,1,2,1
+266,2,9,2,furniture/equipment,2118,1,3,2,male : married/widowed,none,2,unknown / no property,37,none,2,1,2,3 or more,1,2,1
+267,4,36,2,others,909,3,5,4,male : married/widowed,none,4,car or other,36,none,2,1,3,0 to 2,1,2,1
+268,4,12,4,car (used),1258,1,2,2,female : non-single or male : single,none,4,car or other,22,none,1,2,2,0 to 2,1,2,1
+269,4,15,1,furniture/equipment,1569,2,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,34,bank,2,1,2,3 or more,1,2,1
+270,4,6,2,car (new),1236,3,3,2,male : married/widowed,none,4,car or other,50,none,1,1,3,0 to 2,1,2,1
+271,4,36,3,car (used),7678,3,4,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,40,none,2,2,3,0 to 2,2,2,1
+272,4,6,2,domestic appliances,660,3,4,2,female : single,none,4,unknown / no property,23,none,1,1,2,0 to 2,1,2,1
+273,4,24,2,car (used),2835,3,5,3,male : married/widowed,none,4,car or other,53,none,2,1,3,0 to 2,1,2,1
+274,4,24,2,car (new),2670,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,35,none,2,1,4,0 to 2,2,2,1
+275,4,12,1,vacation,3447,3,3,4,female : non-single or male : single,none,3,unknown / no property,35,none,2,1,2,3 or more,1,2,1
+276,4,15,2,furniture/equipment,3568,1,5,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,54,bank,1,1,4,0 to 2,2,2,1
+277,2,21,4,retraining,3652,1,4,2,male : married/widowed,none,3,car or other,27,none,2,2,3,0 to 2,1,2,1
+278,1,24,2,furniture/equipment,3660,1,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,1,2,1
+279,3,9,2,furniture/equipment,1126,2,5,2,male : divorced/separated,none,4,unknown / no property,49,none,2,1,3,0 to 2,1,2,1
+280,3,6,3,furniture/equipment,683,1,2,2,female : non-single or male : single,none,1,car or other,29,bank,2,1,3,0 to 2,1,2,1
+281,3,12,2,car (used),2251,1,3,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,46,none,2,1,2,0 to 2,1,2,1
+282,4,12,2,car (new),4675,5,2,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,20,none,1,1,3,0 to 2,1,2,1
+283,2,21,3,others,2353,1,3,1,male : divorced/separated,none,4,car or other,47,none,2,2,3,0 to 2,1,2,1
+284,1,21,2,furniture/equipment,3357,4,2,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,29,bank,2,1,3,0 to 2,1,2,1
+285,4,6,2,others,672,1,1,1,female : non-single or male : single,none,4,unknown / no property,54,none,2,1,1,0 to 2,2,2,1
+286,1,6,4,furniture/equipment,338,3,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,52,none,2,2,3,0 to 2,1,2,1
+287,4,9,2,furniture/equipment,2697,1,3,1,male : married/widowed,none,2,unknown / no property,32,none,2,1,3,3 or more,1,2,1
+288,4,9,2,others,2507,3,5,2,male : married/widowed,none,4,real estate,51,none,3,1,2,0 to 2,1,2,1
+289,4,15,3,furniture/equipment,1478,1,3,4,female : single,none,3,unknown / no property,33,bank,2,2,3,0 to 2,1,2,1
+290,4,12,4,repairs,3565,5,2,2,male : married/widowed,none,1,car or other,37,none,2,2,2,3 or more,1,2,1
+291,4,15,2,car (used),2221,3,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,20,none,1,1,3,0 to 2,1,2,1
+292,4,6,4,furniture/equipment,1898,5,3,1,male : married/widowed,none,2,unknown / no property,34,none,2,2,2,3 or more,1,2,1
+293,2,6,3,retraining,1449,2,5,1,male : divorced/separated,none,2,building soc. savings agr./life insurance,31,bank,2,2,3,3 or more,1,2,1
+294,4,15,3,car (used),960,4,4,3,female : non-single or male : single,none,2,car or other,30,none,2,2,3,0 to 2,1,2,1
+295,4,36,2,car (new),8133,1,3,1,female : non-single or male : single,none,2,car or other,30,bank,2,1,3,0 to 2,1,2,1
+296,4,9,2,car (used),2301,2,2,2,female : non-single or male : single,none,4,car or other,22,none,1,1,3,0 to 2,1,2,1
+297,4,6,3,retraining,1743,2,3,1,male : married/widowed,none,2,unknown / no property,34,none,2,2,2,0 to 2,1,2,1
+298,2,12,2,car (used),983,4,2,1,female : non-single or male : single,none,4,unknown / no property,19,none,1,1,2,0 to 2,1,2,1
+299,4,18,3,furniture/equipment,2320,1,1,2,female : single,none,3,unknown / no property,34,none,2,2,3,0 to 2,1,2,1
+300,1,12,1,vacation,339,1,5,4,female : single,none,1,building soc. savings agr./life insurance,45,bank,2,1,2,0 to 2,1,2,1
+301,3,24,2,furniture/equipment,5152,1,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,25,bank,2,1,3,0 to 2,1,2,1
+302,3,24,2,car (used),3749,1,2,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,26,none,2,1,3,0 to 2,1,2,1
+303,4,9,4,furniture/equipment,3074,5,3,1,male : married/widowed,none,2,unknown / no property,33,none,2,2,3,3 or more,1,2,1
+304,3,9,2,furniture/equipment,745,1,3,3,female : non-single or male : single,none,2,unknown / no property,28,none,2,1,2,0 to 2,1,2,0
+305,4,24,2,others,1469,2,5,4,female : single,none,4,unknown / no property,41,none,1,1,2,0 to 2,1,2,1
+306,1,6,2,car (used),1374,1,3,1,male : married/widowed,none,2,unknown / no property,36,bank,2,1,2,0 to 2,2,2,1
+307,4,6,1,others,783,5,3,1,male : married/widowed,guarantor,2,unknown / no property,26,stores,2,1,2,3 or more,1,2,1
+308,1,21,2,furniture/equipment,2606,1,2,4,female : non-single or male : single,none,4,car or other,28,none,1,1,4,0 to 2,2,2,1
+309,4,54,0,car (new),9436,5,3,2,male : married/widowed,none,2,car or other,39,none,2,1,2,3 or more,1,2,1
+310,4,12,4,furniture/equipment,930,5,5,4,male : married/widowed,none,4,unknown / no property,65,none,2,4,3,0 to 2,1,2,1
+311,4,48,4,car (new),2751,5,5,4,male : married/widowed,none,3,building soc. savings agr./life insurance,38,none,2,2,3,3 or more,2,2,1
+312,4,6,4,others,250,4,3,2,female : non-single or male : single,none,2,unknown / no property,41,bank,2,2,2,0 to 2,1,2,1
+313,2,24,2,others,1201,1,2,4,male : married/widowed,none,1,car or other,26,none,2,1,3,0 to 2,1,2,1
+314,1,6,2,others,662,1,2,3,male : married/widowed,none,4,unknown / no property,41,none,2,1,2,3 or more,2,2,1
+315,4,15,2,car (new),1300,5,5,4,male : married/widowed,none,4,real estate,45,bank,3,1,3,3 or more,1,2,1
+316,4,24,1,retraining,1559,1,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,40,bank,2,1,3,0 to 2,2,2,1
+317,3,12,2,furniture/equipment,3016,1,3,3,female : single,none,1,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,1
+318,4,15,4,furniture/equipment,1360,1,3,4,male : married/widowed,none,2,car or other,31,none,2,2,3,0 to 2,1,2,1
+319,4,6,0,others,1204,2,3,4,male : married/widowed,none,1,real estate,35,bank,1,1,3,0 to 2,1,1,1
+320,4,10,2,others,1597,3,3,3,male : married/widowed,none,2,real estate,40,none,1,1,2,3 or more,1,1,1
+321,4,12,2,furniture/equipment,2073,2,3,4,female : non-single or male : single,co-applicant,2,unknown / no property,28,none,2,1,3,0 to 2,1,2,1
+322,4,11,2,retraining,2142,4,5,1,male : divorced/separated,none,2,unknown / no property,28,none,2,1,3,0 to 2,2,2,1
+323,1,10,4,car (used),2132,5,2,2,female : non-single or male : single,co-applicant,3,unknown / no property,27,none,1,2,3,0 to 2,1,1,1
+324,4,10,2,others,1546,1,3,3,male : married/widowed,none,2,unknown / no property,31,none,2,1,2,3 or more,1,1,1
+325,4,24,4,others,1287,4,5,4,female : non-single or male : single,none,4,unknown / no property,37,none,2,2,3,0 to 2,2,2,1
+326,4,10,2,others,1418,2,3,3,male : married/widowed,none,2,unknown / no property,35,none,1,1,2,0 to 2,1,1,1
+327,3,6,4,others,1343,1,5,1,male : married/widowed,none,4,unknown / no property,46,none,2,2,3,3 or more,1,1,1
+328,4,18,2,others,2662,5,4,4,male : married/widowed,none,3,car or other,32,none,2,1,3,0 to 2,1,1,1
+329,4,18,4,furniture/equipment,6070,1,5,3,male : married/widowed,none,4,building soc. savings agr./life insurance,33,none,2,2,3,0 to 2,2,2,1
+330,4,24,4,repairs,1927,5,3,3,female : non-single or male : single,none,2,building soc. savings agr./life insurance,33,none,2,2,3,0 to 2,2,2,1
+331,4,18,4,furniture/equipment,2404,1,3,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,26,none,2,2,3,0 to 2,1,2,1
+332,4,6,4,furniture/equipment,1554,1,4,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,24,none,1,2,3,0 to 2,2,2,1
+333,4,22,2,others,1283,5,4,4,female : non-single or male : single,none,4,car or other,25,none,1,1,3,0 to 2,1,2,1
+334,4,24,3,others,717,5,5,4,female : single,none,4,building soc. savings agr./life insurance,54,none,2,2,3,0 to 2,2,2,1
+335,1,24,2,car (used),1747,1,2,4,male : married/widowed,co-applicant,1,car or other,24,none,2,1,2,0 to 2,1,1,1
+336,1,9,4,domestic appliances,1288,2,5,3,male : married/widowed,guarantor,4,unknown / no property,48,none,2,2,3,3 or more,1,1,1
+337,1,10,4,others,1038,1,4,4,male : married/widowed,co-applicant,3,car or other,49,none,2,2,3,0 to 2,2,2,1
+338,4,10,2,car (new),2848,2,3,1,male : married/widowed,co-applicant,2,unknown / no property,32,none,2,1,3,3 or more,1,2,1
+339,4,12,2,car (new),1413,4,4,3,male : married/widowed,none,2,car or other,55,none,2,1,3,0 to 2,1,1,1
+340,4,30,4,furniture/equipment,3077,5,5,3,male : married/widowed,none,2,building soc. savings agr./life insurance,40,none,2,2,3,3 or more,2,2,1
+341,1,24,1,car (new),3632,1,3,1,female : non-single or male : single,guarantor,4,building soc. savings agr./life insurance,22,bank,1,1,3,0 to 2,1,1,1
+342,4,18,4,car (new),3229,5,1,2,male : married/widowed,none,4,real estate,38,none,2,1,4,0 to 2,2,2,1
+343,4,9,2,others,3577,2,3,1,male : married/widowed,guarantor,2,unknown / no property,26,none,1,1,3,3 or more,1,1,1
+344,4,12,4,others,682,2,4,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,51,none,2,2,3,0 to 2,2,2,1
+345,4,10,2,furniture/equipment,1924,1,3,1,male : married/widowed,none,4,car or other,38,none,2,1,3,0 to 2,2,1,1
+346,4,10,2,repairs,727,3,5,4,male : married/widowed,none,4,real estate,46,none,3,1,3,0 to 2,2,2,1
+347,3,10,4,others,781,1,5,4,male : married/widowed,none,4,real estate,63,none,3,2,3,0 to 2,2,2,1
+348,1,12,4,others,2121,1,3,4,male : married/widowed,none,2,car or other,30,none,2,2,3,0 to 2,1,2,1
+349,4,12,4,repairs,701,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,32,none,2,2,3,0 to 2,1,2,1
+350,4,10,4,car (used),2069,5,3,2,female : single,none,1,building soc. savings agr./life insurance,26,none,2,2,3,0 to 2,1,1,1
+351,4,24,2,others,1525,4,4,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,34,none,2,1,3,3 or more,2,2,1
+352,4,48,4,retraining,7629,5,5,4,male : divorced/separated,none,2,building soc. savings agr./life insurance,46,bank,2,2,4,3 or more,1,2,1
+353,1,12,4,others,3499,1,3,3,female : non-single or male : single,co-applicant,2,unknown / no property,29,none,2,2,3,0 to 2,1,2,0
+354,4,6,2,furniture/equipment,1346,2,5,2,male : married/widowed,none,4,real estate,42,bank,3,1,3,3 or more,2,2,1
+355,4,36,4,car (new),10477,5,5,2,male : married/widowed,none,4,real estate,42,none,3,2,3,0 to 2,1,2,1
+356,1,24,2,car (new),2924,1,3,3,male : married/widowed,guarantor,4,real estate,63,bank,2,1,3,3 or more,2,2,1
+357,4,10,4,others,1231,1,5,3,male : married/widowed,none,4,unknown / no property,32,none,2,2,2,3 or more,1,1,1
+358,3,18,2,others,1961,1,5,3,female : non-single or male : single,none,2,building soc. savings agr./life insurance,23,none,2,1,4,0 to 2,1,2,1
+359,4,15,4,others,5045,5,5,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,59,none,2,1,3,0 to 2,2,2,1
+360,4,12,4,others,1255,1,5,4,male : married/widowed,none,4,unknown / no property,61,none,2,2,2,0 to 2,1,2,1
+361,1,12,2,car (used),1858,1,2,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,22,none,1,1,3,0 to 2,1,2,1
+362,4,6,4,car (used),1221,5,3,1,female : single,none,2,car or other,27,none,2,2,3,0 to 2,1,2,1
+363,4,9,2,car (used),1388,1,3,4,female : non-single or male : single,none,2,unknown / no property,26,none,1,1,3,0 to 2,1,2,1
+364,4,12,2,furniture/equipment,2279,5,3,4,male : married/widowed,none,4,real estate,37,none,3,1,3,0 to 2,2,2,1
+365,4,12,0,car (used),2759,1,5,2,male : married/widowed,none,4,car or other,34,none,2,2,3,0 to 2,1,2,1
+366,3,24,2,furniture/equipment,1258,3,3,3,female : non-single or male : single,none,3,building soc. savings agr./life insurance,57,none,2,1,2,0 to 2,1,2,1
+367,2,12,0,vacation,1410,1,3,2,male : married/widowed,none,2,unknown / no property,31,none,2,1,2,0 to 2,2,2,1
+368,1,15,2,others,1403,1,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,28,none,1,1,3,0 to 2,1,2,1
+369,1,24,2,car (used),3021,1,3,2,male : divorced/separated,none,2,unknown / no property,24,none,1,1,2,0 to 2,1,2,1
+370,1,24,2,retraining,6568,1,3,2,female : single,none,2,building soc. savings agr./life insurance,21,stores,2,1,2,0 to 2,1,2,1
+371,4,24,4,furniture/equipment,2578,4,5,2,male : married/widowed,none,2,building soc. savings agr./life insurance,34,none,2,1,3,0 to 2,1,2,1
+372,2,24,4,car (new),7758,4,5,2,female : non-single or male : single,none,4,real estate,29,none,1,1,3,0 to 2,1,2,1
+373,1,6,2,radio/television,343,1,2,4,female : non-single or male : single,none,1,unknown / no property,27,none,2,1,3,0 to 2,1,2,1
+374,4,21,3,car (used),1591,2,4,4,male : married/widowed,none,3,unknown / no property,34,none,2,2,4,0 to 2,1,2,1
+375,1,27,2,furniture/equipment,3416,1,3,3,male : married/widowed,none,2,building soc. savings agr./life insurance,27,none,2,1,4,0 to 2,1,2,1
+376,1,12,0,domestic appliances,1108,1,4,4,male : married/widowed,none,3,unknown / no property,28,none,2,2,3,0 to 2,1,2,0
+377,2,27,3,car (new),5965,1,5,1,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,2,4,0 to 2,2,2,1
+378,2,15,2,domestic appliances,1514,2,3,4,male : married/widowed,guarantor,2,unknown / no property,22,none,2,1,3,0 to 2,1,2,1
+379,4,30,4,furniture/equipment,6742,5,4,2,male : married/widowed,none,3,car or other,36,none,2,2,3,0 to 2,1,2,1
+380,1,18,2,car (used),3650,1,2,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,22,none,1,1,3,0 to 2,1,2,1
+381,1,21,2,car (used),3599,1,4,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,26,none,1,1,2,0 to 2,1,2,1
+382,4,60,4,others,13756,5,5,2,male : married/widowed,none,4,real estate,63,bank,3,1,4,0 to 2,2,2,1
+383,2,9,2,others,276,1,3,4,female : single,none,4,unknown / no property,22,none,1,1,2,0 to 2,1,2,1
+384,4,42,4,car (used),4041,3,3,4,male : married/widowed,none,4,unknown / no property,36,none,2,2,3,0 to 2,2,2,1
+385,2,9,2,furniture/equipment,458,1,3,4,male : married/widowed,none,3,unknown / no property,24,none,2,1,3,0 to 2,1,2,1
+386,2,9,2,car (used),918,1,3,4,female : non-single or male : single,none,1,car or other,30,none,2,1,3,0 to 2,1,2,0
+387,4,24,2,others,7393,1,3,1,male : married/widowed,none,4,car or other,43,none,2,1,2,3 or more,1,2,1
+388,3,10,2,radio/television,1225,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,37,none,2,1,3,0 to 2,2,2,1
+389,1,24,2,car (new),2812,5,5,2,female : non-single or male : single,none,4,unknown / no property,26,none,1,1,3,0 to 2,1,2,1
+390,4,15,2,car (new),3029,1,4,2,male : married/widowed,none,2,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,1,2,1
+391,3,12,4,others,1480,3,1,2,male : married/widowed,none,4,real estate,66,bank,3,3,1,0 to 2,1,2,1
+392,3,6,4,repairs,1047,1,3,2,female : non-single or male : single,none,4,car or other,50,none,2,1,2,0 to 2,1,2,1
+393,4,15,4,furniture/equipment,1471,1,3,4,male : married/widowed,none,4,real estate,35,none,3,2,3,0 to 2,2,2,1
+394,4,24,2,car (used),5511,2,3,4,male : married/widowed,none,1,building soc. savings agr./life insurance,25,stores,2,1,3,0 to 2,1,2,1
+395,2,9,2,furniture/equipment,1206,1,5,4,female : non-single or male : single,none,4,unknown / no property,25,none,2,1,3,0 to 2,1,2,1
+396,2,24,3,furniture/equipment,6403,1,2,1,male : married/widowed,none,2,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,1,2,1
+397,4,12,2,furniture/equipment,707,1,3,4,male : married/widowed,none,2,unknown / no property,30,bank,2,2,3,0 to 2,1,2,1
+398,4,12,3,car (new),1503,1,3,4,female : single,none,4,unknown / no property,41,none,1,1,3,0 to 2,1,2,1
+399,2,12,2,others,6078,1,4,2,male : married/widowed,none,2,building soc. savings agr./life insurance,32,none,2,1,3,0 to 2,1,2,1
+400,2,27,2,retraining,2528,1,2,4,female : non-single or male : single,none,1,car or other,32,none,2,1,3,3 or more,2,2,1
+401,2,12,2,retraining,1037,2,4,3,male : married/widowed,none,4,unknown / no property,39,none,2,1,2,0 to 2,1,2,1
+402,1,6,2,car (new),1352,3,1,1,female : non-single or male : single,none,2,car or other,23,none,1,1,1,0 to 2,2,2,1
+403,4,24,2,furniture/equipment,3181,1,2,4,female : non-single or male : single,none,4,car or other,26,none,2,1,3,0 to 2,2,2,1
+404,4,18,2,furniture/equipment,4594,1,2,3,male : married/widowed,none,2,building soc. savings agr./life insurance,32,none,2,1,3,0 to 2,2,2,1
+405,2,48,2,business,5381,5,1,3,male : married/widowed,none,4,real estate,40,bank,3,1,1,0 to 2,2,2,1
+406,4,15,2,car (new),4657,1,3,3,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,1,3,0 to 2,2,2,1
+407,2,9,2,retraining,1391,1,3,2,female : single,none,1,unknown / no property,27,bank,2,1,3,0 to 2,2,2,1
+408,2,18,2,retraining,1913,4,2,3,female : single,none,3,unknown / no property,36,bank,2,1,3,0 to 2,2,2,1
+409,4,42,2,furniture/equipment,7166,5,4,2,female : single,none,4,car or other,29,none,1,1,3,0 to 2,2,2,1
+410,4,13,2,furniture/equipment,1409,2,1,2,female : non-single or male : single,none,4,unknown / no property,64,none,2,1,3,0 to 2,1,2,1
+411,4,24,3,retraining,2978,5,3,4,male : married/widowed,none,4,unknown / no property,32,none,2,2,3,3 or more,2,2,1
+412,4,12,4,furniture/equipment,976,5,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,35,none,2,2,3,0 to 2,1,2,1
+413,4,24,3,retraining,2375,3,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,44,none,2,2,3,3 or more,2,2,1
+414,4,12,4,furniture/equipment,522,3,5,4,male : married/widowed,none,4,car or other,42,none,2,2,3,3 or more,2,2,1
+415,4,28,4,furniture/equipment,2743,1,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,29,none,2,2,3,0 to 2,1,2,1
+416,4,11,4,furniture/equipment,1154,2,1,4,female : non-single or male : single,none,4,unknown / no property,57,none,2,3,2,0 to 2,1,2,1
+417,4,24,4,car (new),5804,4,3,4,male : married/widowed,none,2,unknown / no property,27,none,2,2,3,0 to 2,1,2,1
+418,4,18,4,furniture/equipment,1169,5,3,4,male : married/widowed,none,3,car or other,29,none,2,2,3,0 to 2,2,2,1
+419,1,15,4,car (used),1478,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,44,none,2,2,3,3 or more,2,2,1
+420,4,12,2,furniture/equipment,776,1,3,4,female : single,none,2,unknown / no property,28,none,2,1,3,0 to 2,1,2,1
+421,2,11,4,others,1322,4,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,40,none,2,2,3,0 to 2,1,2,1
+422,2,16,4,others,1175,1,1,2,male : married/widowed,none,3,building soc. savings agr./life insurance,68,none,3,3,1,0 to 2,2,2,1
+423,4,12,2,others,2133,5,5,4,female : non-single or male : single,none,4,real estate,52,none,3,1,4,0 to 2,2,2,1
+424,4,15,4,furniture/equipment,1829,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,46,none,2,2,3,0 to 2,2,2,1
+425,4,12,4,furniture/equipment,717,1,5,4,male : married/widowed,none,4,unknown / no property,52,none,2,3,3,0 to 2,1,2,1
+426,2,39,3,repairs,11760,2,4,2,male : married/widowed,none,3,real estate,32,none,1,1,3,0 to 2,2,2,1
+427,2,9,4,repairs,1501,1,5,2,female : non-single or male : single,none,3,building soc. savings agr./life insurance,34,none,2,2,4,0 to 2,2,2,0
+428,1,12,2,repairs,1200,5,3,4,female : non-single or male : single,none,4,car or other,23,bank,1,1,3,0 to 2,2,2,1
+429,2,9,2,others,3195,5,3,1,female : non-single or male : single,none,2,unknown / no property,33,none,2,1,2,0 to 2,1,2,1
+430,4,30,4,furniture/equipment,4530,1,4,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,26,none,1,1,4,0 to 2,2,2,1
+431,4,12,3,domestic appliances,1555,4,5,4,male : married/widowed,none,4,real estate,55,none,3,2,3,3 or more,1,2,0
+432,2,15,4,retraining,2326,3,3,2,male : married/widowed,none,4,building soc. savings agr./life insurance,27,bank,2,1,3,0 to 2,1,2,1
+433,2,18,4,retraining,1887,5,3,4,female : single,none,4,unknown / no property,28,bank,2,2,3,0 to 2,1,2,1
+434,4,12,4,retraining,1264,5,5,4,male : married/widowed,none,4,real estate,57,none,1,1,2,0 to 2,1,2,1
+435,4,7,3,furniture/equipment,846,5,5,3,male : married/widowed,none,4,real estate,36,none,3,1,3,0 to 2,1,2,1
+436,4,15,4,repairs,1532,2,3,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,31,none,2,1,3,0 to 2,1,2,1
+437,4,6,3,furniture/equipment,935,1,3,3,female : non-single or male : single,none,2,unknown / no property,24,none,2,1,3,0 to 2,1,2,1
+438,1,27,4,retraining,2442,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,43,stores,2,4,4,3 or more,2,2,1
+439,2,18,4,retraining,3590,1,1,3,female : single,none,3,building soc. savings agr./life insurance,40,none,2,3,1,3 or more,2,2,1
+440,4,21,4,car (used),2288,1,2,4,female : non-single or male : single,none,4,car or other,23,none,2,1,3,0 to 2,2,2,1
+441,4,27,3,retraining,5117,1,4,3,male : married/widowed,none,4,building soc. savings agr./life insurance,26,none,2,2,3,0 to 2,1,2,1
+442,1,39,4,car (used),14179,5,4,4,male : married/widowed,none,4,car or other,30,none,2,2,4,0 to 2,2,2,1
+443,4,15,2,furniture/equipment,1386,5,3,4,female : single,none,2,unknown / no property,40,none,1,1,3,0 to 2,2,2,1
+444,4,12,4,furniture/equipment,618,1,5,4,male : married/widowed,none,4,unknown / no property,56,none,2,1,3,0 to 2,1,2,1
+445,4,12,2,car (used),1574,1,3,4,male : married/widowed,none,2,unknown / no property,50,none,2,1,3,0 to 2,1,2,1
+446,4,6,4,furniture/equipment,700,5,5,4,male : married/widowed,none,4,real estate,36,none,3,2,3,0 to 2,1,2,1
+447,4,12,2,furniture/equipment,886,5,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,21,none,2,1,3,0 to 2,1,2,1
+448,4,36,2,car (new),4686,1,3,2,male : married/widowed,none,2,real estate,32,none,3,1,4,0 to 2,2,2,1
+449,2,9,2,furniture/equipment,790,3,3,4,female : non-single or male : single,none,3,unknown / no property,66,none,2,1,2,0 to 2,1,2,1
+450,2,12,2,furniture/equipment,766,3,3,4,male : married/widowed,none,3,unknown / no property,66,none,2,1,2,0 to 2,1,2,0
+451,1,20,2,car (used),2212,5,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,39,none,2,1,3,0 to 2,2,2,1
+452,2,10,2,others,7308,1,1,2,male : married/widowed,none,4,real estate,70,bank,3,1,4,0 to 2,2,2,1
+453,2,24,4,repairs,5743,1,2,2,female : non-single or male : single,none,4,real estate,24,none,3,2,3,0 to 2,2,2,1
+454,1,14,2,others,3973,1,1,1,male : married/widowed,none,4,real estate,22,none,3,1,3,0 to 2,1,2,1
+455,2,60,3,furniture/equipment,7418,5,3,1,male : married/widowed,none,1,unknown / no property,27,none,2,1,2,0 to 2,1,2,1
+456,2,20,3,business,2629,1,3,2,male : married/widowed,none,3,building soc. savings agr./life insurance,29,bank,2,2,3,0 to 2,2,2,1
+457,2,18,2,retraining,1941,4,3,4,male : married/widowed,none,2,car or other,35,none,2,1,2,0 to 2,2,2,1
+458,2,24,3,car (used),2333,5,2,4,male : married/widowed,none,2,car or other,29,bank,2,1,2,0 to 2,1,2,1
+459,4,12,2,car (new),2445,5,2,2,female : single,none,4,building soc. savings agr./life insurance,26,none,1,1,3,0 to 2,2,2,1
+460,2,20,2,car (new),6468,5,1,1,male : divorced/separated,none,4,unknown / no property,60,none,2,1,4,0 to 2,2,2,1
+461,2,18,4,car (used),7374,1,1,4,male : married/widowed,none,4,car or other,40,stores,2,2,4,0 to 2,2,2,1
+462,4,15,2,car (new),3812,2,2,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,2,1,3,0 to 2,2,2,1
+463,1,28,2,others,4006,1,3,3,male : married/widowed,none,2,building soc. savings agr./life insurance,45,none,2,1,2,0 to 2,1,2,0
+464,2,12,2,others,7472,5,1,1,female : non-single or male : single,none,2,unknown / no property,24,none,1,1,1,0 to 2,1,2,1
+465,3,12,2,car (used),1424,5,5,3,female : non-single or male : single,none,4,unknown / no property,55,none,2,1,4,0 to 2,2,2,1
+466,2,12,2,car (new),2028,5,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,1,3,0 to 2,1,2,1
+467,4,15,2,others,5324,3,5,1,female : non-single or male : single,none,4,real estate,35,none,3,1,3,0 to 2,1,2,1
+468,2,36,2,furniture/equipment,2323,1,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,24,none,1,1,3,0 to 2,1,2,1
+469,4,12,2,repairs,1393,1,5,4,male : married/widowed,none,4,car or other,47,bank,2,3,3,3 or more,2,2,1
+470,4,18,2,car (used),1984,1,3,4,male : married/widowed,none,4,real estate,47,bank,3,2,3,0 to 2,1,2,1
+471,4,24,2,furniture/equipment,999,5,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,25,none,2,2,3,0 to 2,1,2,1
+472,4,36,2,retraining,7409,5,5,3,male : married/widowed,none,2,car or other,37,none,2,2,3,0 to 2,1,2,1
+473,4,15,2,car (used),2186,5,4,1,female : non-single or male : single,none,4,unknown / no property,33,bank,1,1,2,0 to 2,1,2,1
+474,3,36,2,furniture/equipment,4473,1,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,31,none,2,1,3,0 to 2,1,2,1
+475,4,24,2,vacation,937,1,2,4,female : single,none,3,building soc. savings agr./life insurance,27,none,2,2,2,0 to 2,1,2,1
+476,4,18,2,car (used),3422,1,5,4,male : married/widowed,none,4,car or other,47,bank,2,3,3,3 or more,2,2,1
+477,4,24,2,furniture/equipment,3105,5,2,4,male : married/widowed,none,2,building soc. savings agr./life insurance,25,none,2,2,3,0 to 2,1,2,1
+478,4,12,4,repairs,2748,1,5,2,female : non-single or male : single,none,4,real estate,57,bank,3,3,2,0 to 2,1,2,1
+479,2,18,2,domestic appliances,3872,1,1,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,67,none,2,1,3,0 to 2,2,2,1
+480,4,27,2,domestic appliances,5190,5,5,4,male : married/widowed,none,4,car or other,48,none,2,4,3,3 or more,2,2,1
+481,2,18,2,car (used),3001,1,4,2,female : non-single or male : single,none,4,unknown / no property,40,none,1,1,3,0 to 2,1,2,1
+482,4,24,3,retraining,3863,1,3,1,male : married/widowed,none,2,real estate,32,none,3,1,3,0 to 2,1,2,1
+483,4,12,4,car (used),5801,5,5,2,male : married/widowed,none,4,car or other,49,none,1,1,3,0 to 2,2,1,1
+484,4,12,4,car (used),1592,4,4,3,female : non-single or male : single,none,2,car or other,35,none,2,1,3,0 to 2,1,2,1
+485,4,12,4,retraining,1185,1,3,3,female : non-single or male : single,none,2,unknown / no property,27,none,2,2,3,0 to 2,1,2,1
+486,4,18,4,car (used),3780,1,2,3,male : divorced/separated,none,2,building soc. savings agr./life insurance,35,none,2,2,4,0 to 2,2,2,1
+487,2,18,4,car (used),3612,1,5,3,female : non-single or male : single,none,4,car or other,37,none,2,1,3,0 to 2,2,1,1
+488,4,12,2,retraining,1076,1,3,2,female : single,none,2,unknown / no property,26,none,2,1,3,0 to 2,2,2,1
+489,4,12,2,others,3527,5,2,2,male : married/widowed,none,3,car or other,45,none,2,1,4,3 or more,2,2,1
+490,4,18,2,furniture/equipment,2051,1,2,4,male : married/widowed,none,1,unknown / no property,33,none,2,1,3,0 to 2,1,2,1
+491,4,12,4,car (used),3331,1,5,2,male : married/widowed,none,4,car or other,42,stores,2,1,3,0 to 2,1,2,1
+492,1,18,0,retraining,3104,1,4,3,male : married/widowed,none,1,car or other,31,bank,2,1,3,0 to 2,2,2,1
+493,4,24,4,furniture/equipment,2611,1,5,4,female : single,co-applicant,3,unknown / no property,46,none,2,2,3,0 to 2,1,2,1
+494,1,12,4,car (new),1409,1,5,4,male : married/widowed,none,3,unknown / no property,54,none,2,1,3,0 to 2,1,2,1
+495,4,24,2,furniture/equipment,1311,2,4,4,female : single,none,3,car or other,26,none,2,1,3,0 to 2,2,2,1
+496,4,6,2,furniture/equipment,2108,1,4,2,female : single,none,2,unknown / no property,29,none,1,1,3,0 to 2,1,2,1
+497,4,24,4,car (new),4042,5,4,3,male : married/widowed,none,4,car or other,43,none,2,2,3,0 to 2,2,2,1
+498,4,12,4,others,926,1,1,1,female : non-single or male : single,none,2,car or other,38,none,2,1,1,0 to 2,1,2,1
+499,1,12,2,furniture/equipment,1680,3,5,3,female : single,none,1,unknown / no property,35,none,2,1,3,0 to 2,1,2,1
+500,4,24,2,others,1249,1,2,4,female : single,none,2,unknown / no property,28,none,2,1,3,0 to 2,1,2,1
+501,4,24,4,others,2463,2,4,4,female : single,none,3,car or other,27,none,2,2,3,0 to 2,2,2,1
+502,4,6,2,furniture/equipment,1595,1,4,3,male : married/widowed,none,2,car or other,51,none,2,1,3,3 or more,1,2,1
+503,4,24,4,domestic appliances,2058,1,3,4,male : divorced/separated,none,2,unknown / no property,33,none,2,2,3,0 to 2,2,2,1
+504,4,24,2,car (new),7814,1,4,3,male : married/widowed,none,3,building soc. savings agr./life insurance,38,none,2,1,4,0 to 2,2,2,1
+505,4,6,4,furniture/equipment,1740,1,5,2,female : single,none,2,unknown / no property,30,none,1,2,3,0 to 2,1,2,1
+506,4,12,4,furniture/equipment,1240,5,5,4,female : non-single or male : single,none,2,unknown / no property,38,none,2,2,3,0 to 2,2,2,1
+507,4,24,4,car (new),6842,5,3,2,male : married/widowed,none,4,car or other,46,none,2,2,4,3 or more,2,2,1
+508,4,24,4,car (used),5150,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,2,2,1
+509,1,6,2,others,1203,2,5,3,male : married/widowed,none,2,car or other,43,none,2,1,3,0 to 2,2,2,1
+510,4,6,4,others,2080,3,3,1,female : single,none,2,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,1
+511,4,6,2,repairs,1538,1,2,1,female : non-single or male : single,none,2,real estate,56,none,2,1,3,0 to 2,1,2,1
+512,2,24,4,others,3878,2,2,4,male : divorced/separated,none,2,building soc. savings agr./life insurance,37,none,2,1,3,0 to 2,2,2,1
+513,2,30,2,car (used),3832,1,2,2,female : single,none,1,car or other,22,none,2,1,3,0 to 2,1,2,1
+514,4,15,2,others,3186,4,4,2,female : non-single or male : single,none,3,building soc. savings agr./life insurance,20,none,1,1,3,0 to 2,1,2,1
+515,2,24,2,furniture/equipment,2896,2,2,2,male : married/widowed,none,1,building soc. savings agr./life insurance,29,none,2,1,3,0 to 2,1,2,1
+516,2,24,3,retraining,6967,2,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,36,none,1,1,4,0 to 2,2,2,1
+517,4,36,2,repairs,1819,1,3,4,male : married/widowed,none,4,real estate,37,stores,3,1,3,0 to 2,2,2,0
+518,4,24,2,furniture/equipment,5943,5,2,1,female : non-single or male : single,none,1,building soc. savings agr./life insurance,44,none,2,2,3,0 to 2,2,2,0
+519,4,36,4,car (used),7127,1,2,2,female : non-single or male : single,none,4,car or other,23,none,1,2,3,0 to 2,2,2,0
+520,4,36,2,car (used),3349,1,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,28,none,2,1,4,0 to 2,2,2,0
+521,4,36,2,car (used),10974,1,1,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,26,none,2,2,4,0 to 2,2,2,0
+522,4,6,2,furniture/equipment,518,1,3,3,female : non-single or male : single,none,1,unknown / no property,29,none,2,1,3,0 to 2,1,2,1
+523,4,18,2,furniture/equipment,1126,5,2,4,female : non-single or male : single,none,2,unknown / no property,21,none,1,1,3,0 to 2,2,2,1
+524,2,12,4,car (new),1860,1,1,4,male : married/widowed,none,2,building soc. savings agr./life insurance,34,none,2,2,4,0 to 2,2,2,1
+525,4,36,4,furniture/equipment,9566,1,3,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,31,stores,2,2,3,0 to 2,1,2,1
+526,1,12,2,furniture/equipment,701,1,3,4,female : single,none,2,unknown / no property,40,none,2,1,2,0 to 2,1,2,1
+527,2,12,2,furniture/equipment,2930,1,4,2,female : non-single or male : single,none,1,unknown / no property,27,none,2,1,3,0 to 2,1,2,1
+528,4,18,2,furniture/equipment,1505,1,3,4,male : married/widowed,none,2,real estate,32,none,3,1,4,0 to 2,2,2,1
+529,4,18,4,furniture/equipment,2238,1,3,2,female : non-single or male : single,none,1,building soc. savings agr./life insurance,25,none,2,2,3,0 to 2,1,2,1
+530,4,4,4,furniture/equipment,1503,1,4,2,male : married/widowed,none,1,unknown / no property,42,none,2,2,2,3 or more,1,2,1
+531,4,24,4,car (new),2197,5,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,43,none,2,2,3,3 or more,2,2,1
+532,3,12,2,furniture/equipment,1881,1,3,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,44,none,1,1,2,0 to 2,2,2,1
+533,1,18,4,furniture/equipment,1880,1,4,4,female : single,none,1,car or other,32,none,2,2,4,0 to 2,2,2,1
+534,1,18,2,furniture/equipment,2389,1,2,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,27,stores,2,1,3,0 to 2,1,2,1
+535,2,24,2,furniture/equipment,1967,1,5,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,20,none,2,1,3,0 to 2,2,2,1
+536,4,4,4,others,3380,1,4,1,female : non-single or male : single,none,1,unknown / no property,37,none,2,1,3,3 or more,1,2,1
+537,4,4,4,others,1455,1,4,2,male : married/widowed,none,1,unknown / no property,42,none,2,3,2,3 or more,1,2,1
+538,4,7,4,furniture/equipment,730,5,5,4,male : married/widowed,none,2,car or other,46,none,1,2,2,0 to 2,2,2,1
+539,2,18,0,car (used),3244,1,3,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,33,bank,2,2,3,0 to 2,2,2,1
+540,2,9,2,furniture/equipment,1670,1,2,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,22,none,2,1,3,0 to 2,2,2,0
+541,2,48,2,furniture/equipment,3979,5,4,4,male : married/widowed,none,1,building soc. savings agr./life insurance,41,none,2,2,3,3 or more,2,2,1
+542,2,12,2,car (used),1922,1,3,4,male : married/widowed,none,2,car or other,37,none,2,1,2,0 to 2,1,2,0
+543,2,18,4,car (used),1295,1,2,4,female : non-single or male : single,none,1,car or other,27,none,2,2,3,0 to 2,1,2,1
+544,4,4,4,furniture/equipment,1544,1,4,2,male : married/widowed,none,1,unknown / no property,42,none,2,3,2,3 or more,1,2,1
+545,2,8,2,retraining,907,1,2,3,female : single,none,2,unknown / no property,26,none,2,1,3,0 to 2,2,2,1
+546,2,30,2,furniture/equipment,1715,5,3,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,26,none,2,1,3,0 to 2,1,2,1
+547,3,10,4,furniture/equipment,1347,5,4,4,male : married/widowed,none,2,car or other,27,none,2,2,3,0 to 2,2,2,1
+548,2,12,2,others,1007,4,3,4,female : single,none,1,unknown / no property,22,none,2,1,3,0 to 2,1,2,1
+549,4,12,4,car (used),1402,3,4,3,female : non-single or male : single,none,4,building soc. savings agr./life insurance,37,none,1,1,3,0 to 2,2,2,1
+550,2,12,2,others,2002,1,4,3,male : married/widowed,none,4,car or other,30,none,1,1,3,3 or more,2,2,1
+551,4,12,4,repairs,2096,1,4,2,male : married/widowed,none,3,unknown / no property,49,none,2,1,2,3 or more,1,2,1
+552,4,12,2,others,1101,1,3,3,female : single,none,2,unknown / no property,27,none,2,2,3,0 to 2,2,2,1
+553,4,10,2,vacation,894,5,4,4,female : non-single or male : single,none,3,car or other,40,none,2,1,3,0 to 2,2,2,1
+554,2,11,2,car (used),1577,4,2,4,female : non-single or male : single,none,1,unknown / no property,20,none,2,1,3,0 to 2,1,2,1
+555,4,33,3,retraining,2764,1,3,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,26,none,2,2,3,0 to 2,2,2,1
+556,2,48,0,others,8358,3,2,1,female : non-single or male : single,none,1,building soc. savings agr./life insurance,30,none,2,2,3,0 to 2,1,2,1
+557,3,12,2,car (used),1474,1,2,4,female : non-single or male : single,none,1,car or other,33,bank,2,1,4,0 to 2,2,2,1
+558,4,24,2,car (new),5433,5,1,2,female : non-single or male : single,none,4,car or other,26,none,1,1,4,0 to 2,2,2,1
+559,2,14,2,retraining,1410,3,5,1,female : single,none,2,unknown / no property,35,none,2,1,3,0 to 2,2,2,1
+560,4,20,4,others,3485,5,2,2,male : divorced/separated,none,4,unknown / no property,44,none,2,2,3,0 to 2,2,2,1
+561,4,18,4,car (new),3850,1,4,3,male : married/widowed,none,1,building soc. savings agr./life insurance,27,none,2,2,3,0 to 2,1,2,1
+562,2,60,2,others,7408,2,2,4,female : non-single or male : single,none,2,car or other,24,none,2,1,4,0 to 2,1,2,0
+563,3,24,2,furniture/equipment,1377,2,5,4,female : non-single or male : single,none,2,real estate,47,none,3,1,3,0 to 2,2,2,1
+564,4,30,3,retraining,4272,2,3,2,male : married/widowed,none,2,car or other,26,none,2,2,2,0 to 2,1,2,1
+565,2,24,3,furniture/equipment,1553,2,4,3,female : non-single or male : single,none,2,car or other,23,none,1,2,3,0 to 2,2,2,1
+566,2,36,3,retraining,9857,2,4,1,male : married/widowed,none,3,car or other,31,none,2,2,2,3 or more,2,2,1
+567,4,6,4,others,362,2,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,52,none,2,2,2,0 to 2,1,2,1
+568,4,12,4,car (used),1935,1,5,4,male : married/widowed,none,4,unknown / no property,43,none,2,3,3,0 to 2,2,2,1
+569,4,48,2,furniture/equipment,10222,5,4,4,male : married/widowed,none,3,building soc. savings agr./life insurance,37,stores,2,1,3,0 to 2,2,2,1
+570,3,12,2,others,1330,1,2,4,male : married/widowed,none,1,unknown / no property,26,none,2,1,3,0 to 2,1,2,1
+571,4,36,2,repairs,9055,5,3,2,male : married/widowed,none,4,real estate,35,none,3,1,2,3 or more,2,2,1
+572,2,26,2,car (new),7966,1,2,2,male : married/widowed,none,3,building soc. savings agr./life insurance,30,none,2,2,3,0 to 2,1,2,1
+573,2,30,1,car (used),3496,4,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,34,stores,2,1,3,3 or more,2,2,1
+574,2,36,2,car (new),6948,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,35,none,1,1,4,0 to 2,2,2,1
+575,2,48,0,retraining,12204,5,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,48,bank,2,1,4,0 to 2,2,2,1
+576,1,36,2,car (used),3446,1,5,4,male : married/widowed,none,2,building soc. savings agr./life insurance,42,none,2,1,3,3 or more,1,2,0
+577,1,12,2,repairs,684,1,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,40,none,1,1,2,3 or more,1,2,0
+578,1,33,4,car (used),4281,3,3,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,2,2,3,0 to 2,1,2,0
+579,1,42,2,furniture/equipment,7174,5,4,4,female : non-single or male : single,none,3,building soc. savings agr./life insurance,30,none,2,1,4,0 to 2,2,2,0
+580,1,24,1,furniture/equipment,1546,1,4,4,male : married/widowed,guarantor,4,building soc. savings agr./life insurance,24,bank,1,1,2,0 to 2,1,2,0
+581,1,24,2,car (used),2359,2,1,1,male : divorced/separated,none,1,car or other,33,none,2,1,3,0 to 2,1,2,0
+582,4,24,2,furniture/equipment,3621,2,5,2,male : married/widowed,none,4,building soc. savings agr./life insurance,31,none,2,2,3,0 to 2,1,2,0
+583,1,12,2,radio/television,741,2,1,4,female : non-single or male : single,none,3,car or other,22,none,2,1,3,0 to 2,1,2,0
+584,1,12,2,car (used),7865,1,5,4,male : married/widowed,none,4,real estate,53,none,3,1,4,0 to 2,2,2,0
+585,1,24,2,car (new),2910,1,4,2,male : married/widowed,none,1,real estate,34,none,3,1,4,0 to 2,2,2,1
+586,1,18,4,others,5302,1,5,2,male : married/widowed,none,4,real estate,36,none,3,3,4,0 to 2,2,2,1
+587,1,36,2,car (used),3620,1,3,1,male : married/widowed,guarantor,2,car or other,37,none,2,1,3,3 or more,1,2,1
+588,1,18,2,furniture/equipment,3509,1,4,4,female : non-single or male : single,guarantor,1,unknown / no property,25,none,2,1,3,0 to 2,1,2,1
+589,2,12,2,car (used),3017,1,2,3,female : non-single or male : single,none,1,unknown / no property,34,none,1,1,4,0 to 2,1,2,1
+590,1,12,2,car (used),1657,1,3,2,male : married/widowed,none,2,unknown / no property,27,none,2,1,3,0 to 2,1,2,1
+591,1,8,4,business,1164,1,5,3,male : married/widowed,none,4,real estate,51,bank,3,2,4,3 or more,2,2,1
+592,1,36,4,car (used),6229,1,2,4,female : non-single or male : single,co-applicant,4,real estate,23,none,1,2,2,0 to 2,2,2,0
+593,1,24,1,others,1193,1,1,1,female : non-single or male : single,co-applicant,4,real estate,29,none,1,2,1,0 to 2,1,2,0
+594,1,30,0,car (used),4583,1,3,2,male : divorced/separated,guarantor,2,unknown / no property,32,none,2,2,3,0 to 2,1,2,1
+595,1,36,4,car (used),5371,1,3,3,male : married/widowed,guarantor,2,car or other,28,none,2,2,3,0 to 2,1,2,1
+596,1,12,2,car (used),708,1,3,2,male : married/widowed,guarantor,3,car or other,38,none,2,1,2,3 or more,1,2,1
+597,1,21,4,others,571,1,5,4,male : married/widowed,none,4,unknown / no property,65,none,2,2,3,0 to 2,1,2,1
+598,1,30,2,furniture/equipment,2522,1,5,1,male : married/widowed,guarantor,3,car or other,39,none,2,1,3,3 or more,1,2,1
+599,1,36,2,car (used),5179,1,4,4,male : married/widowed,none,2,car or other,29,none,2,1,3,0 to 2,1,2,0
+600,1,36,2,car (new),8229,1,3,2,male : married/widowed,none,2,car or other,26,none,2,1,3,3 or more,1,2,0
+601,4,24,4,car (used),2028,1,4,2,male : married/widowed,none,2,car or other,30,none,2,2,2,0 to 2,1,2,1
+602,1,6,2,others,1374,5,1,4,female : non-single or male : single,none,3,car or other,75,none,2,1,4,0 to 2,2,2,1
+603,1,12,2,car (used),1289,1,3,4,male : married/widowed,guarantor,1,car or other,21,none,2,1,2,0 to 2,1,2,1
+604,1,36,2,car (used),2712,1,5,2,male : married/widowed,none,2,car or other,41,bank,2,1,3,3 or more,1,2,0
+605,1,15,4,car (used),975,1,3,2,male : divorced/separated,none,3,car or other,25,none,2,2,3,0 to 2,1,2,1
+606,2,6,3,car (used),1050,1,1,4,male : married/widowed,none,1,car or other,35,stores,2,2,4,0 to 2,2,1,1
+607,1,6,4,others,609,1,4,4,female : non-single or male : single,none,3,car or other,37,none,2,2,3,0 to 2,1,2,1
+608,1,48,2,car (new),4788,1,4,4,male : married/widowed,none,3,car or other,26,none,2,1,3,3 or more,1,2,1
+609,2,24,2,car (used),3069,2,5,4,male : married/widowed,none,4,real estate,30,none,3,1,3,0 to 2,1,2,1
+610,2,12,2,others,836,2,2,4,female : non-single or male : single,none,2,car or other,23,bank,2,1,2,0 to 2,1,2,0
+611,1,12,2,car (used),2577,1,3,2,male : divorced/separated,none,1,building soc. savings agr./life insurance,42,none,2,1,3,0 to 2,1,2,1
+612,1,12,2,car (used),1620,1,3,2,female : non-single or male : single,co-applicant,3,car or other,30,none,2,1,3,0 to 2,1,2,1
+613,1,15,2,car (used),1845,1,2,4,female : non-single or male : single,guarantor,1,car or other,46,none,1,1,3,0 to 2,1,2,1
+614,1,24,2,car (new),6579,1,1,4,male : married/widowed,none,2,real estate,29,none,3,1,4,0 to 2,2,2,1
+615,1,12,2,others,1893,1,3,4,female : non-single or male : single,guarantor,4,car or other,29,none,2,1,3,0 to 2,2,2,1
+616,1,30,4,car (new),10623,1,5,3,male : married/widowed,none,4,real estate,38,none,3,3,4,3 or more,2,2,1
+617,1,18,2,others,2249,2,4,4,male : married/widowed,none,3,building soc. savings agr./life insurance,30,none,2,1,4,3 or more,2,2,1
+618,1,30,2,car (used),3108,1,2,2,male : divorced/separated,none,4,car or other,31,none,2,1,2,0 to 2,1,2,0
+619,2,12,4,others,958,1,4,2,male : married/widowed,none,3,unknown / no property,47,none,2,2,2,3 or more,1,2,1
+620,4,24,2,car (new),9277,5,3,2,male : divorced/separated,none,4,real estate,48,none,3,1,3,0 to 2,2,2,1
+621,4,24,4,business,6314,1,1,4,male : married/widowed,co-applicant,2,real estate,27,bank,2,2,4,0 to 2,2,2,1
+622,1,12,4,car (new),1526,1,5,4,male : married/widowed,none,4,real estate,66,none,3,2,4,0 to 2,1,2,1
+623,1,12,2,car (used),3590,1,3,2,male : married/widowed,co-applicant,2,car or other,29,none,2,1,2,3 or more,1,2,1
+624,1,24,4,car (new),6615,1,1,2,male : married/widowed,none,4,real estate,75,none,3,2,4,0 to 2,2,2,1
+625,1,6,4,car (used),1872,1,1,4,male : married/widowed,none,4,real estate,36,none,3,3,4,0 to 2,2,2,1
+626,4,12,2,others,2859,5,1,4,male : married/widowed,none,4,real estate,38,none,2,1,4,0 to 2,2,2,1
+627,4,18,4,furniture/equipment,1582,4,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,46,none,2,2,3,0 to 2,1,2,1
+628,4,6,2,vacation,1238,5,1,4,male : married/widowed,none,4,car or other,36,none,2,1,4,3 or more,2,2,1
+629,1,12,2,car (used),2578,1,1,3,female : non-single or male : single,none,4,real estate,55,none,3,1,4,0 to 2,1,2,1
+630,1,15,4,car (used),1433,1,3,4,female : non-single or male : single,none,3,car or other,25,none,1,2,3,0 to 2,1,2,1
+631,1,42,2,car (used),7882,1,4,2,male : married/widowed,guarantor,4,car or other,45,none,3,1,3,3 or more,1,2,1
+632,1,24,2,car (used),4169,1,3,4,male : married/widowed,none,4,car or other,28,none,2,1,3,0 to 2,1,2,1
+633,1,36,2,car (used),3959,1,1,4,male : married/widowed,none,3,car or other,30,none,2,1,4,0 to 2,2,2,1
+634,1,36,2,others,3249,1,4,2,male : married/widowed,none,4,real estate,39,bank,3,1,4,3 or more,2,2,1
+635,1,24,2,car (used),3149,1,2,4,male : married/widowed,none,1,real estate,22,bank,3,1,3,0 to 2,1,2,1
+636,1,12,4,car (used),2246,1,5,3,male : married/widowed,none,3,car or other,60,none,2,2,3,0 to 2,1,2,0
+637,1,13,4,retraining,1797,1,2,3,male : married/widowed,none,1,car or other,28,bank,2,2,2,0 to 2,1,2,1
+638,1,20,4,car (used),4272,1,5,1,female : non-single or male : single,none,4,car or other,24,none,2,2,3,0 to 2,1,2,1
+639,1,24,4,car (new),2957,1,5,4,male : married/widowed,none,4,car or other,63,none,2,2,3,0 to 2,2,2,1
+640,1,36,4,car (used),2348,1,3,3,female : single,none,2,car or other,46,none,2,2,3,0 to 2,2,2,1
+641,3,42,0,retraining,6289,1,2,2,male : divorced/separated,none,1,car or other,33,none,2,2,3,0 to 2,1,2,1
+642,1,24,4,car (new),6419,1,5,2,female : non-single or male : single,none,4,real estate,44,none,3,2,4,3 or more,2,2,1
+643,1,48,4,car (new),6143,1,5,4,female : non-single or male : single,none,4,real estate,58,stores,3,2,2,0 to 2,1,2,0
+644,4,24,4,repairs,1597,1,5,4,male : married/widowed,none,4,real estate,54,none,3,2,3,3 or more,1,2,1
+645,1,36,2,business,15857,1,1,2,male : divorced/separated,co-applicant,3,building soc. savings agr./life insurance,43,none,2,1,4,0 to 2,1,2,1
+646,4,24,4,furniture/equipment,2223,2,5,4,male : married/widowed,none,4,car or other,52,bank,2,2,3,0 to 2,1,2,1
+647,4,48,3,furniture/equipment,7238,5,5,3,male : married/widowed,none,3,building soc. savings agr./life insurance,32,bank,2,2,3,3 or more,1,2,1
+648,2,30,3,retraining,2503,2,5,4,male : married/widowed,none,2,car or other,41,stores,2,2,3,0 to 2,1,2,1
+649,2,18,2,retraining,2622,2,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,34,none,2,1,3,0 to 2,1,2,1
+650,2,24,2,car (used),4351,5,3,1,female : non-single or male : single,none,4,car or other,48,none,2,1,2,0 to 2,2,2,1
+651,2,6,2,furniture/equipment,368,5,5,4,male : married/widowed,none,4,car or other,38,none,2,1,3,0 to 2,1,2,1
+652,2,12,2,vacation,754,5,5,4,male : married/widowed,none,4,car or other,38,none,2,2,3,0 to 2,1,2,1
+653,4,24,4,furniture/equipment,2424,5,5,4,male : married/widowed,none,4,car or other,53,none,2,2,3,0 to 2,1,2,1
+654,2,48,3,retraining,6681,5,3,4,male : married/widowed,none,4,real estate,38,none,3,1,3,3 or more,2,2,1
+655,2,18,3,retraining,2427,5,5,4,male : married/widowed,none,2,car or other,42,none,2,2,3,0 to 2,1,2,1
+656,2,24,4,furniture/equipment,1216,2,2,4,male : married/widowed,none,4,real estate,38,bank,2,2,3,3 or more,1,2,0
+657,2,6,2,furniture/equipment,753,1,3,2,female : non-single or male : single,guarantor,3,unknown / no property,64,none,2,1,3,0 to 2,1,2,1
+658,2,7,2,furniture/equipment,2576,1,3,2,male : married/widowed,guarantor,2,unknown / no property,35,none,2,1,3,0 to 2,1,1,1
+659,2,6,2,furniture/equipment,590,1,2,3,female : single,none,3,unknown / no property,26,none,2,1,2,0 to 2,1,1,1
+660,2,8,2,furniture/equipment,1414,1,3,4,male : married/widowed,guarantor,2,unknown / no property,33,none,2,1,3,0 to 2,1,1,1
+661,2,12,2,furniture/equipment,1103,1,4,4,male : married/widowed,guarantor,3,unknown / no property,29,none,2,2,3,0 to 2,1,2,1
+662,2,12,3,furniture/equipment,585,1,3,4,female : single,co-applicant,4,unknown / no property,20,none,1,2,3,0 to 2,1,2,1
+663,2,6,2,furniture/equipment,1068,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,28,none,2,1,3,3 or more,1,2,1
+664,1,8,4,others,713,1,5,4,male : married/widowed,none,4,unknown / no property,47,none,2,2,2,0 to 2,1,2,1
+665,2,12,2,furniture/equipment,1092,1,3,4,female : non-single or male : single,guarantor,4,unknown / no property,49,none,2,2,3,0 to 2,2,2,1
+666,2,7,2,furniture/equipment,2329,1,2,1,female : non-single or male : single,guarantor,1,unknown / no property,45,none,2,1,3,0 to 2,1,2,1
+667,2,13,4,furniture/equipment,882,1,2,4,male : married/widowed,guarantor,4,unknown / no property,23,none,2,2,3,0 to 2,1,2,1
+668,2,18,2,furniture/equipment,866,1,3,4,female : single,guarantor,2,unknown / no property,25,none,2,1,2,0 to 2,1,2,1
+669,2,7,2,furniture/equipment,2415,1,3,3,male : married/widowed,guarantor,2,unknown / no property,34,none,2,1,3,0 to 2,1,2,1
+670,2,13,2,furniture/equipment,2101,1,2,2,female : non-single or male : single,guarantor,4,car or other,23,none,2,1,2,0 to 2,1,2,1
+671,2,18,2,furniture/equipment,1301,1,5,4,female : single,guarantor,2,unknown / no property,32,none,2,1,2,0 to 2,1,2,1
+672,2,18,2,furniture/equipment,1113,1,3,4,female : non-single or male : single,guarantor,4,unknown / no property,26,none,2,1,2,3 or more,1,2,1
+673,2,8,2,furniture/equipment,760,1,4,4,female : non-single or male : single,guarantor,2,unknown / no property,44,none,2,1,2,0 to 2,1,2,1
+674,2,12,2,furniture/equipment,625,1,2,4,female : single,guarantor,1,unknown / no property,26,bank,2,1,2,0 to 2,1,2,1
+675,3,6,4,others,1323,2,5,2,male : divorced/separated,none,4,building soc. savings agr./life insurance,28,none,2,2,3,3 or more,2,2,1
+676,1,9,4,furniture/equipment,1138,1,3,4,male : married/widowed,none,4,unknown / no property,25,none,2,2,2,0 to 2,1,2,1
+677,2,18,4,furniture/equipment,1795,1,5,3,female : non-single or male : single,guarantor,4,unknown / no property,48,bank,1,2,2,0 to 2,2,2,1
+678,2,15,4,furniture/equipment,2728,5,4,4,male : married/widowed,guarantor,2,unknown / no property,35,bank,2,3,3,0 to 2,2,2,1
+679,2,6,2,furniture/equipment,484,1,4,3,female : single,guarantor,3,unknown / no property,28,bank,2,1,2,0 to 2,1,2,1
+680,2,10,1,furniture/equipment,1048,1,3,4,male : married/widowed,none,4,unknown / no property,23,stores,2,1,2,0 to 2,1,2,1
+681,2,12,2,furniture/equipment,1155,1,5,3,female : single,guarantor,3,unknown / no property,40,bank,2,2,2,0 to 2,1,2,1
+682,2,20,3,car (new),7057,5,4,3,male : married/widowed,none,4,car or other,36,bank,1,2,4,3 or more,2,2,1
+683,2,15,4,furniture/equipment,1537,5,5,4,male : married/widowed,guarantor,4,unknown / no property,50,none,2,2,3,0 to 2,2,2,1
+684,1,12,2,furniture/equipment,2214,1,3,4,male : married/widowed,none,3,car or other,24,none,2,1,2,0 to 2,1,2,1
+685,4,24,4,car (used),1585,1,4,4,male : married/widowed,none,3,car or other,40,none,2,2,3,0 to 2,1,2,1
+686,2,10,2,car (used),1521,1,3,4,male : divorced/separated,none,2,building soc. savings agr./life insurance,31,none,2,1,2,0 to 2,1,2,1
+687,2,36,1,radio/television,3990,5,2,3,female : non-single or male : single,none,2,real estate,29,bank,2,1,1,0 to 2,1,2,1
+688,3,18,2,car (used),3049,1,2,1,female : non-single or male : single,none,1,car or other,45,stores,2,1,2,0 to 2,1,2,1
+689,1,24,2,furniture/equipment,1282,2,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,32,none,2,1,2,0 to 2,1,2,0
+690,4,60,2,furniture/equipment,10144,2,4,2,female : non-single or male : single,none,4,unknown / no property,21,none,2,1,3,0 to 2,2,2,1
+691,1,12,2,others,1168,1,3,4,female : single,none,3,unknown / no property,27,none,2,1,2,0 to 2,1,2,1
+692,2,6,2,domestic appliances,454,1,2,3,female : single,none,1,car or other,22,none,2,1,2,0 to 2,1,2,1
+693,4,15,3,car (new),3594,1,2,1,female : non-single or male : single,none,2,car or other,46,none,2,2,2,0 to 2,1,2,1
+694,4,12,2,car (used),1768,1,3,3,male : married/widowed,none,2,unknown / no property,24,none,1,1,2,0 to 2,1,2,1
+695,4,60,3,furniture/equipment,15653,1,4,2,male : married/widowed,none,4,building soc. savings agr./life insurance,21,none,2,2,3,0 to 2,2,2,1
+696,3,12,3,others,2247,1,3,2,female : non-single or male : single,none,2,building soc. savings agr./life insurance,36,stores,2,2,3,0 to 2,2,2,1
+697,4,24,2,furniture/equipment,1413,1,3,4,female : single,none,2,car or other,28,none,2,1,3,0 to 2,1,2,1
+698,2,45,4,car (new),4576,2,1,3,male : married/widowed,none,4,building soc. savings agr./life insurance,27,none,2,1,3,0 to 2,1,2,1
+699,1,24,4,furniture/equipment,1231,4,5,4,female : non-single or male : single,none,4,car or other,57,none,1,2,4,0 to 2,2,2,1
+700,1,36,2,car (new),8335,5,5,3,male : married/widowed,none,4,real estate,47,none,3,1,3,0 to 2,1,2,0
+701,2,36,4,car (new),5800,1,3,3,male : married/widowed,none,4,building soc. savings agr./life insurance,34,none,2,2,3,0 to 2,2,2,1
+702,1,18,3,repairs,8471,5,3,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,23,none,1,2,3,0 to 2,2,2,1
+703,1,30,2,car (used),3622,4,5,4,female : non-single or male : single,none,4,car or other,57,none,1,2,3,0 to 2,2,2,1
+704,1,6,4,furniture/equipment,1169,5,5,4,male : married/widowed,none,4,unknown / no property,67,none,2,2,3,0 to 2,2,2,1
+705,4,15,2,radio/television,1262,3,4,4,male : married/widowed,none,3,car or other,36,none,2,2,3,0 to 2,2,2,1
+706,3,24,4,car (used),3617,5,5,4,male : married/widowed,co-applicant,4,real estate,20,none,1,2,3,0 to 2,1,2,1
+707,2,30,4,others,2181,5,5,4,male : married/widowed,none,4,unknown / no property,36,none,2,2,3,0 to 2,1,2,1
+708,1,48,1,retraining,7685,1,4,2,female : non-single or male : single,guarantor,4,building soc. savings agr./life insurance,37,none,1,1,3,0 to 2,1,2,0
+709,4,48,4,repairs,6110,1,3,1,male : married/widowed,none,3,real estate,31,bank,3,1,3,0 to 2,2,2,1
+710,4,24,2,others,3757,1,5,4,female : non-single or male : single,co-applicant,4,real estate,62,none,3,1,3,0 to 2,2,2,1
+711,1,42,4,domestic appliances,3394,1,1,4,male : married/widowed,co-applicant,4,building soc. savings agr./life insurance,65,none,2,2,1,0 to 2,1,2,1
+712,4,36,4,retraining,6304,5,5,4,male : married/widowed,none,4,unknown / no property,36,none,2,2,3,0 to 2,1,2,1
+713,4,9,4,repairs,1244,5,5,4,female : non-single or male : single,none,4,car or other,41,none,1,2,2,0 to 2,1,2,1
+714,4,6,2,others,3518,1,3,2,male : married/widowed,guarantor,3,car or other,26,none,1,1,3,0 to 2,1,2,1
+715,4,36,0,domestic appliances,2613,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,27,none,2,2,3,0 to 2,1,2,1
+716,1,48,2,repairs,7476,1,4,4,male : married/widowed,none,1,real estate,50,none,3,1,4,0 to 2,2,2,1
+717,4,24,2,retraining,4591,4,3,2,male : married/widowed,none,3,car or other,54,none,2,3,4,0 to 2,2,2,0
+718,2,18,2,car (used),1924,5,2,4,female : non-single or male : single,none,3,unknown / no property,27,none,1,1,3,0 to 2,1,2,0
+719,2,72,2,furniture/equipment,5595,2,3,2,female : single,none,2,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,1,2,0
+720,2,48,3,repairs,6224,1,5,4,male : married/widowed,none,4,real estate,50,none,3,1,3,0 to 2,1,2,0
+721,3,15,2,repairs,1905,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,40,none,1,1,4,0 to 2,2,2,1
+722,4,21,3,car (new),2993,1,3,3,male : married/widowed,none,2,unknown / no property,28,stores,2,2,2,0 to 2,1,2,1
+723,4,36,3,car (new),8947,5,4,3,male : married/widowed,none,2,building soc. savings agr./life insurance,31,stores,2,1,4,3 or more,2,2,1
+724,1,24,2,car (used),4020,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,27,stores,2,1,3,0 to 2,1,2,1
+725,2,18,2,car (new),2779,1,3,1,female : single,none,3,building soc. savings agr./life insurance,21,none,1,1,3,0 to 2,2,2,1
+726,4,21,2,others,2782,3,4,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,31,bank,2,1,4,0 to 2,1,2,1
+727,4,12,2,others,1884,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,39,none,2,1,4,0 to 2,2,2,1
+728,4,36,4,car (new),11054,5,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,1,4,0 to 2,2,2,1
+729,2,60,3,furniture/equipment,9157,5,3,2,male : married/widowed,none,2,real estate,27,none,3,1,4,0 to 2,1,2,1
+730,2,42,1,car (new),9283,1,1,1,male : married/widowed,none,2,real estate,55,bank,3,1,4,0 to 2,2,2,1
+731,4,60,2,others,6527,5,3,4,male : married/widowed,none,4,real estate,34,none,3,1,3,3 or more,2,2,1
+732,4,15,4,car (new),3368,4,5,3,male : married/widowed,none,4,real estate,23,none,1,2,3,0 to 2,2,2,1
+733,1,15,2,others,2511,1,1,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,1,1,3,0 to 2,1,2,1
+734,1,36,2,car (new),5493,1,5,2,male : married/widowed,none,4,real estate,42,none,3,1,3,3 or more,1,2,1
+735,4,6,2,radio/television,1338,3,3,1,male : divorced/separated,none,4,unknown / no property,62,none,2,1,3,0 to 2,1,2,1
+736,2,9,2,furniture/equipment,1082,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,37,none,2,2,2,0 to 2,1,2,1
+737,4,18,4,furniture/equipment,1149,4,3,4,male : married/widowed,none,3,unknown / no property,46,none,2,2,3,0 to 2,1,2,1
+738,2,15,2,domestic appliances,1308,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,38,none,2,2,2,0 to 2,1,2,1
+739,2,20,0,car (new),6148,2,5,3,female : single,none,4,building soc. savings agr./life insurance,31,bank,2,2,3,0 to 2,2,2,1
+740,4,12,2,car (used),1736,1,4,3,female : non-single or male : single,none,4,unknown / no property,31,none,2,1,2,0 to 2,1,2,1
+741,4,12,2,furniture/equipment,3059,4,4,2,male : divorced/separated,none,4,unknown / no property,61,none,2,1,2,0 to 2,1,2,1
+742,1,24,2,car (used),2996,5,3,2,female : single,none,4,building soc. savings agr./life insurance,20,none,2,1,3,0 to 2,1,2,0
+743,4,30,4,car (new),7596,5,5,1,male : married/widowed,none,4,building soc. savings agr./life insurance,63,none,2,2,3,0 to 2,1,2,1
+744,4,30,2,car (new),4811,5,4,2,female : non-single or male : single,none,4,car or other,24,stores,1,1,2,0 to 2,1,2,1
+745,4,6,2,car (used),1766,1,3,1,female : single,none,2,car or other,21,none,1,1,3,0 to 2,1,2,1
+746,2,24,2,car (new),2760,5,5,4,male : married/widowed,none,4,real estate,36,bank,3,1,3,0 to 2,2,2,1
+747,4,24,4,domestic appliances,5507,1,5,3,male : married/widowed,none,4,real estate,44,none,3,2,3,0 to 2,1,2,1
+748,2,9,2,repairs,1199,1,4,4,female : non-single or male : single,none,4,car or other,67,none,2,2,4,0 to 2,2,2,1
+749,3,24,2,car (used),2892,1,5,3,male : divorced/separated,none,4,real estate,51,none,3,1,3,0 to 2,1,2,1
+750,2,36,3,others,2862,2,5,4,male : married/widowed,none,3,real estate,30,none,3,1,3,0 to 2,1,2,1
+751,1,9,2,others,654,1,3,4,male : married/widowed,none,3,building soc. savings agr./life insurance,28,none,2,1,2,0 to 2,1,2,0
+752,2,9,4,repairs,1136,4,5,4,male : married/widowed,none,3,real estate,32,none,3,2,3,3 or more,1,2,0
+753,2,24,2,car (new),4113,3,2,3,female : non-single or male : single,none,4,building soc. savings agr./life insurance,28,none,1,1,3,0 to 2,1,2,0
+754,2,6,2,others,14555,5,1,1,male : married/widowed,none,2,car or other,23,none,2,1,1,0 to 2,2,2,0
+755,1,15,0,others,950,1,5,4,male : married/widowed,none,3,building soc. savings agr./life insurance,33,none,1,2,3,3 or more,1,2,0
+756,1,24,4,others,1199,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,60,none,2,2,2,0 to 2,1,2,0
+757,1,12,0,others,1082,1,3,4,male : married/widowed,none,4,building soc. savings agr./life insurance,48,bank,2,2,3,0 to 2,1,2,0
+758,2,30,2,others,2150,1,3,4,female : non-single or male : single,guarantor,2,real estate,24,bank,2,1,3,0 to 2,1,2,0
+759,2,36,4,others,2820,1,2,4,male : divorced/separated,none,4,building soc. savings agr./life insurance,27,none,2,2,3,0 to 2,1,2,0
+760,2,48,2,furniture/equipment,3060,1,4,4,male : married/widowed,none,4,unknown / no property,28,none,2,2,3,0 to 2,1,2,0
+761,1,18,2,furniture/equipment,2600,1,3,4,male : married/widowed,none,4,real estate,65,none,3,2,3,0 to 2,1,2,0
+762,4,21,0,others,5003,5,3,1,female : non-single or male : single,none,4,car or other,29,bank,2,2,3,0 to 2,2,2,0
+763,2,60,2,repairs,6288,1,3,4,male : married/widowed,none,4,real estate,42,none,3,1,3,0 to 2,1,2,0
+764,4,24,3,others,2538,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,47,none,2,2,2,3 or more,1,2,0
+765,4,9,2,furniture/equipment,1478,1,4,4,male : married/widowed,none,2,building soc. savings agr./life insurance,22,none,2,1,3,0 to 2,1,2,0
+766,2,39,4,furniture/equipment,4933,1,4,2,male : married/widowed,guarantor,2,unknown / no property,25,none,2,2,3,0 to 2,1,2,0
+767,4,18,4,others,1530,1,3,3,male : married/widowed,none,2,car or other,32,bank,2,2,3,0 to 2,1,2,0
+768,2,9,1,others,1437,2,4,2,male : married/widowed,none,3,real estate,29,none,2,1,3,0 to 2,1,2,0
+769,1,15,2,radio/television,1275,5,3,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,24,none,1,1,3,0 to 2,1,2,0
+770,1,24,2,furniture/equipment,1823,1,1,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,stores,2,1,4,3 or more,1,2,0
+771,1,9,2,others,1422,1,2,3,male : married/widowed,none,2,real estate,27,none,3,1,4,0 to 2,2,2,0
+772,1,18,2,radio/television,1217,1,3,4,female : single,none,3,unknown / no property,47,none,2,1,2,0 to 2,2,2,0
+773,1,36,2,others,9271,1,4,2,male : married/widowed,none,1,building soc. savings agr./life insurance,24,none,2,1,3,0 to 2,2,2,0
+774,1,36,3,retraining,2145,1,4,2,male : married/widowed,none,1,building soc. savings agr./life insurance,24,none,2,2,3,0 to 2,2,2,0
+775,1,36,2,others,1842,1,2,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,34,none,2,1,3,0 to 2,2,2,0
+776,2,18,3,car (used),4297,1,5,4,male : divorced/separated,none,3,real estate,40,none,2,1,4,0 to 2,2,2,0
+777,1,6,4,car (used),3384,1,3,1,male : divorced/separated,none,4,unknown / no property,44,none,1,1,4,0 to 2,2,2,0
+778,2,18,4,furniture/equipment,1245,1,3,4,female : single,none,2,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,1,2,0
+779,4,15,2,repairs,4623,2,3,3,male : married/widowed,none,2,car or other,40,none,2,1,4,0 to 2,2,2,0
+780,2,30,4,car (used),8386,1,4,2,male : married/widowed,none,2,car or other,49,none,2,1,3,0 to 2,1,2,0
+781,1,24,3,furniture/equipment,1024,1,2,4,female : single,none,4,unknown / no property,48,stores,2,1,3,0 to 2,1,2,0
+782,2,36,2,others,14318,1,5,4,male : married/widowed,none,2,real estate,57,none,3,1,4,0 to 2,2,2,0
+783,2,6,1,repairs,433,4,2,4,female : non-single or male : single,none,2,car or other,24,bank,1,1,3,3 or more,1,2,0
+784,1,12,1,furniture/equipment,2149,1,3,4,male : divorced/separated,none,1,real estate,29,none,3,1,3,0 to 2,1,2,0
+785,4,24,2,furniture/equipment,2397,3,5,3,male : married/widowed,none,2,building soc. savings agr./life insurance,35,bank,2,2,3,0 to 2,2,2,0
+786,2,6,1,others,931,2,2,1,female : non-single or male : single,none,1,car or other,32,stores,2,1,2,0 to 2,1,2,0
+787,2,15,3,domestic appliances,1512,4,3,3,female : single,none,3,car or other,61,stores,2,2,3,0 to 2,1,2,0
+788,2,24,0,retraining,4241,1,3,1,male : married/widowed,none,4,unknown / no property,36,none,2,3,2,0 to 2,2,2,0
+789,2,24,4,car (used),4736,1,2,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,25,bank,2,1,2,0 to 2,1,2,0
+790,2,15,0,others,1778,1,2,2,female : non-single or male : single,none,1,unknown / no property,26,none,1,2,1,0 to 2,1,2,0
+791,3,15,2,furniture/equipment,2327,1,2,2,female : non-single or male : single,none,3,unknown / no property,25,none,2,1,2,0 to 2,1,2,0
+792,1,24,1,car (used),6872,1,2,2,male : divorced/separated,none,1,car or other,55,bank,2,1,3,0 to 2,2,2,0
+793,1,12,2,repairs,795,1,2,4,female : non-single or male : single,none,4,car or other,53,none,2,1,3,0 to 2,1,2,0
+794,3,30,3,retraining,1908,1,5,4,male : married/widowed,none,4,unknown / no property,66,none,2,1,4,0 to 2,2,2,0
+795,2,36,0,retraining,1953,1,5,4,male : married/widowed,none,4,real estate,61,none,3,1,4,0 to 2,2,2,0
+796,3,18,2,car (used),2864,1,3,2,male : married/widowed,none,1,unknown / no property,34,none,2,1,2,3 or more,1,2,0
+797,3,21,4,repairs,2319,1,2,2,male : divorced/separated,none,1,building soc. savings agr./life insurance,33,none,1,1,3,0 to 2,1,2,0
+798,1,24,2,others,915,5,5,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,29,bank,2,1,3,0 to 2,1,2,0
+799,3,24,2,others,947,1,4,4,male : married/widowed,none,3,real estate,38,bank,3,1,3,3 or more,1,2,0
+800,1,24,2,others,1381,5,3,4,female : non-single or male : single,none,2,car or other,35,none,2,1,3,0 to 2,1,2,0
+801,1,24,2,others,1285,5,4,4,female : non-single or male : single,none,4,real estate,32,none,1,1,3,0 to 2,1,2,0
+802,1,24,2,others,1371,5,3,4,female : non-single or male : single,none,4,unknown / no property,25,none,1,1,3,0 to 2,1,2,0
+803,2,18,2,others,1042,5,3,4,female : non-single or male : single,none,2,car or other,33,none,2,1,3,0 to 2,1,2,0
+804,1,12,2,others,900,5,3,4,female : single,none,2,building soc. savings agr./life insurance,23,none,2,1,3,0 to 2,1,2,0
+805,1,24,2,others,1207,1,2,4,female : non-single or male : single,none,4,car or other,24,none,1,1,3,0 to 2,1,2,0
+806,2,18,0,others,2278,2,2,3,female : non-single or male : single,none,3,building soc. savings agr./life insurance,28,none,2,2,3,0 to 2,1,2,0
+807,1,60,3,retraining,6836,1,5,3,male : married/widowed,none,4,real estate,63,none,2,2,3,0 to 2,2,2,0
+808,1,24,2,car (used),3345,1,5,4,male : married/widowed,none,2,car or other,39,none,1,1,4,0 to 2,2,2,0
+809,1,6,1,repairs,1198,1,5,4,female : non-single or male : single,none,4,real estate,35,none,3,1,3,0 to 2,1,2,0
+810,2,48,2,retraining,15672,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,23,none,2,1,3,0 to 2,2,2,0
+811,1,60,2,retraining,7297,1,5,4,male : married/widowed,co-applicant,4,real estate,36,none,1,1,3,0 to 2,1,2,0
+812,4,18,2,domestic appliances,1943,1,2,4,female : non-single or male : single,none,4,unknown / no property,23,none,2,1,3,0 to 2,1,2,0
+813,1,18,2,furniture/equipment,3190,1,3,2,female : non-single or male : single,none,2,unknown / no property,24,none,2,1,3,0 to 2,1,2,0
+814,2,9,1,car (new),5129,1,5,2,female : non-single or male : single,none,4,real estate,74,bank,3,1,4,3 or more,2,2,0
+815,4,18,3,car (used),1808,1,4,4,female : non-single or male : single,none,1,unknown / no property,22,none,2,1,3,0 to 2,1,2,0
+816,3,10,2,others,1240,2,5,1,female : non-single or male : single,none,4,real estate,48,none,3,1,2,3 or more,1,2,0
+817,1,12,2,others,759,1,4,4,male : married/widowed,none,2,unknown / no property,26,none,2,1,3,0 to 2,1,2,0
+818,2,8,2,car (used),1237,1,3,3,female : non-single or male : single,none,4,unknown / no property,24,none,2,1,3,0 to 2,1,2,0
+819,4,9,2,car (used),1980,1,2,2,female : non-single or male : single,co-applicant,2,building soc. savings agr./life insurance,19,none,1,2,3,0 to 2,1,2,0
+820,2,48,2,furniture/equipment,10961,4,4,1,male : married/widowed,co-applicant,2,real estate,27,bank,2,2,3,0 to 2,2,2,0
+821,1,36,3,repairs,6887,1,3,4,male : married/widowed,none,3,car or other,29,stores,2,1,3,0 to 2,2,2,0
+822,1,24,2,furniture/equipment,1938,1,2,4,male : divorced/separated,none,3,car or other,32,none,2,1,3,0 to 2,1,2,0
+823,1,21,2,furniture/equipment,1835,1,3,3,female : non-single or male : single,none,2,unknown / no property,25,none,2,2,3,0 to 2,2,2,0
+824,1,24,3,furniture/equipment,1659,1,2,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,29,none,1,1,2,0 to 2,2,2,0
+825,2,6,3,others,1209,1,1,4,male : married/widowed,none,4,car or other,47,none,2,1,4,0 to 2,2,2,0
+826,2,48,0,retraining,3844,2,4,4,male : married/widowed,none,4,real estate,34,none,3,1,2,3 or more,1,2,0
+827,1,12,4,others,4843,1,5,3,male : married/widowed,co-applicant,4,car or other,43,none,1,2,3,0 to 2,2,2,0
+828,2,12,2,domestic appliances,639,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,30,none,2,1,3,0 to 2,1,2,0
+829,2,48,2,furniture/equipment,5951,1,3,2,female : non-single or male : single,none,2,unknown / no property,22,none,2,1,3,0 to 2,1,2,0
+830,2,36,0,furniture/equipment,3804,1,3,4,female : non-single or male : single,none,1,building soc. savings agr./life insurance,42,none,2,1,3,0 to 2,2,2,0
+831,4,36,3,furniture/equipment,4463,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,26,none,2,2,4,0 to 2,2,2,0
+832,4,36,3,retraining,7980,5,2,4,male : married/widowed,none,4,building soc. savings agr./life insurance,27,none,1,2,3,0 to 2,2,2,0
+833,3,36,2,furniture/equipment,4210,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,26,none,2,1,3,0 to 2,1,2,0
+834,4,6,2,car (used),4611,1,2,1,female : non-single or male : single,none,4,car or other,32,none,2,1,3,0 to 2,1,2,0
+835,2,24,2,car (new),11560,1,3,1,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,1,2,4,0 to 2,1,2,0
+836,4,18,0,retraining,4165,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,36,stores,2,2,3,3 or more,1,2,0
+837,2,24,2,car (used),4057,1,4,3,male : divorced/separated,none,3,building soc. savings agr./life insurance,43,none,2,1,3,0 to 2,2,2,0
+838,4,18,1,others,6458,1,5,2,male : married/widowed,none,4,real estate,39,bank,2,2,4,3 or more,2,2,0
+839,4,12,2,others,1386,3,3,2,female : non-single or male : single,none,2,car or other,26,none,2,1,3,0 to 2,1,2,0
+840,1,36,2,repairs,1977,5,5,4,male : married/widowed,none,4,real estate,40,none,2,1,4,0 to 2,2,2,0
+841,2,18,4,car (used),1928,1,2,2,male : married/widowed,none,2,unknown / no property,31,none,2,2,2,0 to 2,1,2,0
+842,4,12,2,car (used),1123,3,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,29,none,1,1,2,0 to 2,1,2,0
+843,2,24,2,business,11328,1,3,2,male : married/widowed,co-applicant,3,building soc. savings agr./life insurance,29,bank,2,2,4,0 to 2,2,2,0
+844,2,24,4,business,11938,1,3,2,male : married/widowed,co-applicant,3,building soc. savings agr./life insurance,39,none,2,2,4,3 or more,2,2,0
+845,2,27,4,furniture/equipment,2520,3,3,4,male : married/widowed,none,2,car or other,23,none,2,2,2,0 to 2,1,2,0
+846,2,30,3,furniture/equipment,1919,2,2,4,male : married/widowed,none,3,real estate,30,stores,2,2,4,0 to 2,1,2,0
+847,2,60,1,business,14782,2,5,3,female : non-single or male : single,none,4,real estate,60,bank,3,2,4,0 to 2,2,2,0
+848,2,36,2,furniture/equipment,2671,2,3,4,female : non-single or male : single,co-applicant,4,real estate,50,none,3,1,3,0 to 2,1,2,0
+849,2,36,2,repairs,12612,2,3,1,male : married/widowed,none,4,real estate,47,none,3,1,3,3 or more,2,2,0
+850,2,45,2,furniture/equipment,3031,2,3,4,male : married/widowed,guarantor,4,car or other,21,none,1,1,3,0 to 2,1,2,0
+851,1,12,1,furniture/equipment,626,1,3,4,female : non-single or male : single,none,4,unknown / no property,24,bank,2,1,2,0 to 2,1,2,0
+852,2,24,4,retraining,1935,1,5,4,male : divorced/separated,none,4,unknown / no property,31,none,2,2,3,0 to 2,2,2,0
+853,3,24,4,others,1344,5,4,4,male : married/widowed,none,2,unknown / no property,37,bank,2,2,2,3 or more,1,2,0
+854,4,18,2,car (used),1533,1,2,4,female : single,co-applicant,1,car or other,43,none,2,1,2,3 or more,1,2,0
+855,1,48,2,others,3931,1,4,4,male : married/widowed,none,4,real estate,46,none,3,1,3,3 or more,1,2,0
+856,1,24,1,car (used),3349,3,2,4,male : married/widowed,none,4,real estate,30,none,3,1,3,3 or more,2,2,0
+857,1,36,2,furniture/equipment,2302,1,3,4,male : divorced/separated,none,4,building soc. savings agr./life insurance,31,none,1,1,3,0 to 2,1,2,0
+858,1,42,2,furniture/equipment,3965,1,2,4,male : married/widowed,none,3,building soc. savings agr./life insurance,34,none,2,1,3,0 to 2,1,2,0
+859,1,12,2,furniture/equipment,727,2,2,4,female : single,none,3,real estate,33,none,2,1,2,0 to 2,2,2,0
+860,4,48,2,retraining,3914,5,3,4,male : divorced/separated,none,2,unknown / no property,38,bank,2,1,3,0 to 2,1,2,0
+861,1,48,2,retraining,4308,1,2,3,female : non-single or male : single,none,4,car or other,24,none,1,1,3,0 to 2,1,2,0
+862,2,12,2,furniture/equipment,1534,1,2,1,female : single,none,1,unknown / no property,23,none,1,1,3,0 to 2,1,2,0
+863,4,18,4,others,2775,1,4,2,male : married/widowed,none,2,car or other,31,bank,2,2,3,0 to 2,1,2,0
+864,1,40,4,repairs,5998,1,3,4,male : married/widowed,none,3,real estate,27,bank,2,1,3,0 to 2,2,2,0
+865,3,15,4,furniture/equipment,1271,5,3,3,male : married/widowed,none,4,real estate,39,none,3,2,3,0 to 2,2,2,0
+866,2,12,2,others,1295,1,2,3,female : non-single or male : single,none,1,building soc. savings agr./life insurance,25,none,1,1,3,0 to 2,1,2,0
+867,2,36,2,car (new),9398,1,2,1,female : single,none,4,building soc. savings agr./life insurance,28,none,1,1,4,0 to 2,2,2,0
+868,2,12,2,car (used),951,2,2,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,27,bank,1,4,3,0 to 2,1,2,0
+869,2,24,2,others,1355,1,2,3,female : non-single or male : single,none,4,building soc. savings agr./life insurance,25,none,2,1,2,0 to 2,2,2,0
+870,1,48,2,radio/television,3051,1,3,3,male : married/widowed,none,4,building soc. savings agr./life insurance,54,none,2,1,3,0 to 2,1,2,0
+871,4,36,4,others,7855,1,3,4,female : non-single or male : single,none,2,unknown / no property,25,stores,2,2,3,0 to 2,2,2,0
+872,4,18,2,furniture/equipment,433,1,1,3,female : non-single or male : single,co-applicant,4,unknown / no property,22,none,1,1,3,0 to 2,1,2,0
+873,4,36,3,retraining,9572,1,2,1,male : divorced/separated,none,1,building soc. savings agr./life insurance,28,none,2,2,3,0 to 2,1,2,0
+874,2,24,1,repairs,1837,1,4,4,female : non-single or male : single,none,4,real estate,34,bank,3,1,2,0 to 2,1,2,0
+875,2,30,4,others,4249,1,1,4,female : single,none,2,building soc. savings agr./life insurance,28,none,2,2,4,0 to 2,1,2,0
+876,2,30,4,others,5234,1,1,4,female : single,none,2,building soc. savings agr./life insurance,28,none,2,2,4,0 to 2,1,2,0
+877,1,48,2,furniture/equipment,6758,1,3,3,female : non-single or male : single,none,2,building soc. savings agr./life insurance,31,none,2,1,3,0 to 2,2,2,0
+878,1,9,2,furniture/equipment,1366,1,2,3,female : non-single or male : single,none,4,car or other,22,none,1,1,3,0 to 2,1,2,0
+879,1,24,1,business,1358,5,5,4,male : married/widowed,none,3,building soc. savings agr./life insurance,40,stores,2,1,4,0 to 2,2,2,0
+880,1,18,2,car (used),2473,1,1,4,male : married/widowed,none,1,building soc. savings agr./life insurance,25,none,2,1,1,0 to 2,1,2,0
+881,3,9,0,furniture/equipment,1337,1,2,4,male : married/widowed,none,2,building soc. savings agr./life insurance,34,none,2,2,4,0 to 2,2,2,0
+882,1,48,2,others,7763,1,5,4,male : married/widowed,none,4,real estate,42,bank,3,1,4,0 to 2,1,2,0
+883,2,15,1,others,1264,2,3,2,female : single,none,2,car or other,25,none,1,1,3,0 to 2,1,2,0
+884,2,15,2,others,2631,2,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,28,none,1,2,3,0 to 2,2,2,0
+885,2,48,2,others,6560,2,4,3,male : married/widowed,none,2,car or other,24,none,2,1,3,0 to 2,1,2,0
+886,1,24,2,others,3123,1,2,4,female : non-single or male : single,none,1,car or other,27,none,2,1,3,0 to 2,1,2,0
+887,1,36,4,repairs,8065,1,3,3,female : non-single or male : single,none,2,real estate,25,none,2,2,4,0 to 2,2,2,0
+888,1,24,2,furniture/equipment,2439,1,2,4,female : non-single or male : single,none,4,unknown / no property,35,none,2,1,3,0 to 2,2,2,0
+889,2,36,2,car (used),9034,2,2,4,male : married/widowed,co-applicant,1,real estate,29,none,1,1,4,0 to 2,2,2,0
+890,2,60,2,others,14027,1,4,4,male : married/widowed,none,2,real estate,27,none,2,1,4,0 to 2,2,2,0
+891,1,36,4,car (new),9629,1,4,4,male : married/widowed,none,4,building soc. savings agr./life insurance,24,none,2,2,3,0 to 2,2,2,0
+892,2,12,2,furniture/equipment,1484,5,3,2,female : single,none,1,unknown / no property,25,none,2,1,3,0 to 2,2,2,0
+893,1,18,2,car (used),1131,1,1,4,female : non-single or male : single,none,2,building soc. savings agr./life insurance,33,none,2,1,3,0 to 2,1,2,0
+894,2,24,3,car (used),2064,1,1,3,female : non-single or male : single,none,2,car or other,34,none,2,1,4,0 to 2,2,2,0
+895,2,18,2,car (new),12976,1,1,3,female : non-single or male : single,none,4,real estate,38,none,3,1,4,0 to 2,2,2,0
+896,4,21,3,retraining,2580,3,2,4,male : married/widowed,none,2,unknown / no property,41,bank,2,1,2,3 or more,1,2,0
+897,4,27,2,others,2570,1,3,3,female : non-single or male : single,none,3,unknown / no property,21,none,1,1,3,0 to 2,1,2,0
+898,2,27,2,retraining,3915,1,3,4,male : married/widowed,none,2,building soc. savings agr./life insurance,36,none,2,1,3,3 or more,2,2,0
+899,4,10,2,others,1309,5,3,4,male : married/widowed,guarantor,4,car or other,27,none,2,1,2,0 to 2,1,2,0
+900,1,24,2,others,4817,1,4,2,male : married/widowed,co-applicant,3,car or other,31,none,2,1,3,0 to 2,2,2,0
+901,1,12,2,others,2579,1,2,4,male : married/widowed,none,1,unknown / no property,33,none,2,1,2,3 or more,1,2,0
+902,2,36,3,others,2225,1,5,4,male : married/widowed,none,4,real estate,57,bank,3,2,3,0 to 2,2,2,0
+903,1,18,2,car (used),4153,1,3,2,male : married/widowed,co-applicant,3,building soc. savings agr./life insurance,42,none,2,1,3,0 to 2,1,2,0
+904,1,18,0,car (used),3114,1,2,1,female : non-single or male : single,none,4,car or other,26,none,1,1,3,0 to 2,1,2,0
+905,1,18,4,car (used),2124,1,3,4,female : non-single or male : single,none,4,unknown / no property,24,none,1,2,3,0 to 2,1,2,0
+906,1,18,1,car (used),1553,1,3,4,male : married/widowed,none,3,building soc. savings agr./life insurance,44,bank,2,1,3,0 to 2,1,2,0
+907,1,30,2,car (used),2406,1,4,4,female : non-single or male : single,none,4,unknown / no property,23,none,1,1,3,0 to 2,1,2,0
+908,1,24,3,others,1333,1,1,4,male : married/widowed,none,2,unknown / no property,43,none,3,2,3,3 or more,1,2,0
+909,1,48,0,car (used),7119,1,3,3,male : married/widowed,none,4,real estate,53,none,3,2,3,3 or more,1,2,0
+910,1,24,3,others,4870,1,3,3,male : married/widowed,none,4,real estate,53,none,3,2,3,3 or more,1,2,0
+911,1,12,4,others,691,1,5,4,male : married/widowed,none,3,car or other,35,none,2,2,3,0 to 2,1,2,0
+912,1,42,3,furniture/equipment,4370,1,4,3,male : married/widowed,none,2,car or other,26,bank,2,2,3,3 or more,2,2,0
+913,1,36,1,car (used),2746,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,31,bank,2,1,3,0 to 2,1,2,0
+914,1,24,0,car (used),4110,1,5,3,male : married/widowed,none,4,real estate,23,bank,1,2,3,3 or more,1,2,0
+915,1,18,2,car (used),2462,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,22,none,2,1,3,0 to 2,1,2,0
+916,1,12,2,car (used),1282,1,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,20,none,1,1,3,0 to 2,1,2,0
+917,2,12,0,car (used),2969,1,2,4,female : non-single or male : single,none,3,car or other,25,none,1,2,3,0 to 2,1,2,0
+918,1,48,0,car (new),4605,1,5,3,male : married/widowed,none,4,real estate,24,none,3,2,3,3 or more,1,2,0
+919,1,48,4,car (new),6331,1,5,4,male : married/widowed,none,4,real estate,46,none,3,2,3,0 to 2,2,2,0
+920,1,24,1,car (used),3552,1,4,3,male : married/widowed,none,4,building soc. savings agr./life insurance,27,bank,2,1,3,0 to 2,1,2,0
+921,1,12,1,others,697,1,2,4,male : married/widowed,none,2,building soc. savings agr./life insurance,46,bank,2,2,3,0 to 2,2,2,0
+922,1,24,2,others,1442,1,4,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,23,none,1,2,3,0 to 2,1,2,0
+923,1,27,0,retraining,5293,1,1,2,male : married/widowed,none,4,car or other,50,none,2,2,3,0 to 2,2,2,0
+924,1,21,3,repairs,3414,1,2,2,male : married/widowed,none,1,car or other,26,stores,2,2,3,0 to 2,1,2,0
+925,1,18,2,car (used),2039,1,3,1,female : non-single or male : single,none,4,unknown / no property,20,none,1,1,3,0 to 2,1,2,0
+926,1,24,1,retraining,3161,1,3,4,male : married/widowed,none,2,car or other,31,bank,1,1,3,0 to 2,2,2,0
+927,1,12,2,vacation,902,1,4,4,female : single,none,4,car or other,21,none,1,1,3,0 to 2,1,2,0
+928,1,48,2,car (new),10297,1,4,4,male : married/widowed,none,4,real estate,39,none,3,3,3,3 or more,2,2,0
+929,2,48,0,retraining,14421,1,3,2,male : married/widowed,none,2,building soc. savings agr./life insurance,25,stores,2,1,3,0 to 2,2,2,0
+930,2,18,4,others,1056,1,5,3,male : married/widowed,guarantor,3,unknown / no property,30,none,2,2,3,0 to 2,1,2,0
+931,1,12,2,others,1274,1,2,3,female : non-single or male : single,none,1,unknown / no property,37,bank,2,1,2,0 to 2,1,2,0
+932,2,12,2,others,1223,1,5,1,male : divorced/separated,none,1,unknown / no property,46,none,1,2,3,0 to 2,1,2,0
+933,1,12,2,others,1372,1,4,2,male : divorced/separated,none,3,building soc. savings agr./life insurance,36,none,2,1,3,0 to 2,1,2,0
+934,1,16,4,others,2625,1,5,2,male : married/widowed,guarantor,4,car or other,43,none,1,1,3,0 to 2,2,1,0
+935,1,20,4,others,2235,1,3,4,female : single,guarantor,2,car or other,33,bank,1,2,3,0 to 2,1,1,0
+936,2,9,2,car (used),959,1,3,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,29,bank,2,1,3,0 to 2,1,2,0
+937,2,18,4,others,884,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,36,none,2,1,3,3 or more,2,2,0
+938,2,24,2,others,1246,1,2,4,male : married/widowed,none,2,unknown / no property,23,bank,2,1,2,0 to 2,1,2,0
+939,2,36,3,others,8086,2,5,2,male : married/widowed,none,4,building soc. savings agr./life insurance,42,stores,2,4,4,0 to 2,2,2,0
+940,4,48,4,others,10127,3,3,2,male : married/widowed,none,2,real estate,44,none,3,1,3,0 to 2,1,2,0
+941,2,12,2,others,888,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,41,bank,2,1,2,3 or more,1,2,0
+942,4,12,2,repairs,719,1,5,4,male : married/widowed,none,4,building soc. savings agr./life insurance,41,bank,2,1,2,3 or more,1,2,0
+943,2,36,2,others,12389,5,3,1,male : married/widowed,none,4,real estate,37,bank,3,1,3,0 to 2,2,2,0
+944,1,12,2,furniture/equipment,709,1,5,4,male : married/widowed,none,4,unknown / no property,57,none,2,1,2,0 to 2,1,2,0
+945,2,15,1,others,6850,2,1,1,male : married/widowed,none,2,car or other,34,stores,2,1,4,3 or more,2,2,0
+946,4,10,2,car (used),2210,1,3,2,male : married/widowed,none,2,unknown / no property,25,none,1,1,2,0 to 2,1,2,0
+947,4,30,1,car (new),7485,5,1,4,female : non-single or male : single,none,1,unknown / no property,53,bank,2,1,4,0 to 2,2,2,0
+948,1,18,1,others,1442,1,4,4,male : married/widowed,none,4,real estate,32,bank,3,2,2,3 or more,1,2,0
+949,4,12,4,furniture/equipment,797,5,5,4,female : non-single or male : single,none,3,car or other,33,none,2,1,2,3 or more,1,2,0
+950,2,45,4,furniture/equipment,4746,1,2,4,male : married/widowed,none,2,car or other,24,bank,2,2,2,0 to 2,1,2,0
+951,3,12,4,others,939,3,4,4,female : single,none,2,unknown / no property,28,none,2,3,3,0 to 2,2,2,0
+952,2,21,2,retraining,1188,1,5,2,female : non-single or male : single,none,4,car or other,39,none,2,1,3,3 or more,1,2,0
+953,4,48,4,car (new),11590,2,3,2,female : non-single or male : single,none,4,building soc. savings agr./life insurance,24,none,1,2,2,0 to 2,1,2,0
+954,3,12,1,retraining,609,1,2,4,female : non-single or male : single,none,1,unknown / no property,26,bank,2,1,1,0 to 2,1,2,0
+955,1,18,4,domestic appliances,1190,1,1,2,female : non-single or male : single,none,4,real estate,55,none,3,3,1,3 or more,1,2,0
+956,2,21,2,retraining,2767,2,5,4,male : divorced/separated,none,2,building soc. savings agr./life insurance,61,none,1,2,2,0 to 2,1,2,0
+957,2,30,2,car (used),3441,2,3,2,female : non-single or male : single,co-applicant,4,building soc. savings agr./life insurance,21,bank,1,1,3,0 to 2,1,2,0
+958,2,30,0,retraining,4280,2,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,26,none,1,2,2,0 to 2,1,2,0
+959,2,24,2,furniture/equipment,3092,2,2,3,female : single,none,2,building soc. savings agr./life insurance,22,none,1,1,3,0 to 2,2,2,0
+960,4,18,2,others,6761,5,3,2,male : married/widowed,none,4,building soc. savings agr./life insurance,68,stores,1,2,3,0 to 2,1,2,0
+961,2,12,2,furniture/equipment,1331,1,2,2,male : married/widowed,none,1,building soc. savings agr./life insurance,22,none,2,1,3,0 to 2,1,2,0
+962,2,54,0,retraining,15945,1,2,3,male : married/widowed,none,4,real estate,58,none,1,1,3,0 to 2,2,2,0
+963,1,24,2,car (used),3234,1,2,4,female : non-single or male : single,none,4,unknown / no property,23,none,1,1,2,0 to 2,2,2,0
+964,2,15,2,furniture/equipment,802,1,5,4,male : married/widowed,none,3,building soc. savings agr./life insurance,37,none,2,1,3,3 or more,1,2,0
+965,2,48,2,car (used),9960,1,2,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,26,bank,2,1,3,0 to 2,2,2,0
+966,4,24,3,retraining,8648,1,2,2,male : married/widowed,none,2,building soc. savings agr./life insurance,27,bank,2,2,3,0 to 2,2,2,0
+967,1,18,2,furniture/equipment,1345,1,3,4,female : single,none,3,unknown / no property,26,none,2,1,3,0 to 2,1,2,0
+968,1,45,2,furniture/equipment,1845,1,3,4,male : married/widowed,none,4,real estate,23,none,3,1,3,0 to 2,2,2,0
+969,1,21,1,others,1647,5,3,4,male : married/widowed,none,2,car or other,40,bank,2,2,2,3 or more,1,2,0
+970,4,48,2,retraining,4844,1,1,3,male : married/widowed,none,2,building soc. savings agr./life insurance,33,none,1,1,4,0 to 2,2,2,0
+971,2,27,0,retraining,8318,1,5,2,female : non-single or male : single,none,4,real estate,42,stores,3,2,4,0 to 2,2,2,0
+972,3,18,2,furniture/equipment,2100,1,3,4,male : married/widowed,co-applicant,2,unknown / no property,37,none,2,1,3,0 to 2,1,2,0
+973,1,45,0,retraining,11816,1,5,2,male : married/widowed,none,4,building soc. savings agr./life insurance,29,none,1,2,3,0 to 2,1,2,0
+974,1,6,2,repairs,448,1,2,4,female : non-single or male : single,none,4,car or other,23,none,2,1,3,0 to 2,1,2,0
+975,1,30,2,domestic appliances,11998,1,2,1,male : divorced/separated,none,1,real estate,34,bank,2,1,2,0 to 2,2,2,0
+976,2,48,0,business,18424,1,3,1,female : non-single or male : single,none,2,car or other,32,bank,2,1,4,0 to 2,2,1,0
+977,1,6,2,others,14896,1,5,1,male : married/widowed,none,4,real estate,68,bank,2,1,4,0 to 2,2,2,0
+978,2,12,2,car (used),2762,5,5,1,female : non-single or male : single,none,2,car or other,25,none,2,1,3,0 to 2,2,2,0
+979,1,12,2,car (new),3386,1,5,3,male : married/widowed,none,4,real estate,35,none,3,1,3,0 to 2,2,2,0
+980,2,24,2,furniture/equipment,2039,1,2,1,female : single,none,1,car or other,22,none,2,1,3,0 to 2,2,2,0
+981,4,18,3,retraining,2169,1,3,4,female : single,none,2,building soc. savings agr./life insurance,28,none,2,1,3,0 to 2,2,2,0
+982,2,48,4,car (used),5096,1,3,2,female : non-single or male : single,none,3,building soc. savings agr./life insurance,30,none,2,1,4,0 to 2,2,2,0
+983,1,18,2,furniture/equipment,1882,1,3,4,female : non-single or male : single,none,4,building soc. savings agr./life insurance,25,bank,1,2,3,0 to 2,1,2,0
+984,1,48,2,furniture/equipment,6999,1,4,1,female : single,guarantor,1,unknown / no property,34,none,2,2,3,0 to 2,2,2,0
+985,4,12,4,retraining,2292,1,1,4,male : married/widowed,none,2,building soc. savings agr./life insurance,42,stores,2,2,4,0 to 2,2,2,0
+986,1,14,2,others,8978,1,5,1,male : divorced/separated,none,4,car or other,45,none,2,1,4,0 to 2,2,1,0
+987,1,12,2,furniture/equipment,674,2,4,4,female : single,none,1,car or other,20,none,2,1,3,0 to 2,1,2,0
+988,1,18,2,others,976,1,2,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,23,none,2,1,2,0 to 2,1,2,0
+989,2,24,2,others,2718,1,3,3,female : non-single or male : single,none,4,car or other,20,none,1,1,2,0 to 2,2,2,0
+990,1,18,2,repairs,750,1,1,4,female : non-single or male : single,none,1,unknown / no property,27,none,2,1,1,0 to 2,1,2,0
+991,2,24,2,car (new),12579,1,5,4,female : non-single or male : single,none,2,real estate,44,none,3,1,4,0 to 2,2,2,0
+992,1,18,2,car (new),7511,5,5,1,male : married/widowed,none,4,car or other,51,none,3,1,3,3 or more,2,2,0
+993,1,18,4,others,3966,1,5,1,female : non-single or male : single,none,4,unknown / no property,33,bank,1,3,3,0 to 2,2,2,0
+994,1,12,0,furniture/equipment,6199,1,3,4,male : married/widowed,none,2,car or other,28,none,1,2,3,0 to 2,2,2,0
+995,1,24,2,furniture/equipment,1987,1,3,2,male : married/widowed,none,4,unknown / no property,21,none,1,1,2,3 or more,1,2,0
+996,1,24,2,others,2303,1,5,4,male : married/widowed,co-applicant,1,unknown / no property,45,none,2,1,3,0 to 2,1,2,0
+997,4,21,4,others,12680,5,5,4,male : married/widowed,none,4,real estate,30,none,3,1,4,0 to 2,2,2,0
+998,2,12,2,furniture/equipment,6468,5,1,2,male : married/widowed,none,1,real estate,52,none,2,1,4,0 to 2,2,2,0
+999,1,30,2,car (used),6350,5,5,4,male : married/widowed,none,4,car or other,31,none,2,1,3,0 to 2,1,2,0
