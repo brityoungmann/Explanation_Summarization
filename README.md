@@ -1,7 +1,7 @@
 # Summarized Causal Explanations For Aggregate Views
 Summarized Causal Explanations For Aggregate Views
 
-#Requirements:
+Requirements:
 apyori==1.1.2
 dowhy==0.7.1
 pandas==1.5.3
